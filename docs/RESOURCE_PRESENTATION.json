@@ -1,7 +1,7 @@
 {
   "id": "k-cybersecurity",
   "name": "K-Cybersecurity",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "repository": "https://github.com/GrazianoGuiducci/k-cybersecurity",
   "manifesto": {
     "path": "MANIFESTO.md",

@@ -42,6 +42,12 @@ un progetto o una possibilità di sicurezza da sviluppare.
 - **Imparare dal lavoro:** far continuare una conseguenza nella competenza
   che deve comprendere e agire diversamente.
 
+## Sicurezza durante il lavoro
+
+Una fonte, una memoria o un risultato di uno strumento può cambiare il modo in cui un agente comprende ed esegue il proprio incarico. K-Cybersecurity aiuta a distinguere **informazioni, istruzioni e autorità**, a riconoscere i cambiamenti dei contenuti fra passaggi e a mantenere comprensibili le proprietà di sicurezza durante modifiche e deleghe.
+
+[Sicurezza durante il lavoro](docs/SECURITY_IN_OPERATION.md) · [Esempio pratico](examples/security-through-changes.md)
+
 ## Per aziende e organizzazioni
 
 Il kernel può entrare nei progetti AI, nello sviluppo software, nelle attività
@@ -55,14 +61,14 @@ l'istanza del destinatario conserva contesto e apprendimento locale.
 
 ## Il nucleo disponibile
 
-L’edizione corrente, **0.2.0**, contiene il nucleo semantico, il manifesto,
+La versione **0.2.1** contiene il nucleo semantico, il manifesto,
 quattro corpi di competenza e un ingresso utilizzabile come skill. I file
 portano logiche e conoscenza attraverso cui il ricevente può organizzarsi.
 Strumenti di analisi, sistemi di controllo e processi esecutivi si compongono
 nel suo ambiente. [Presente e direzione](CURRENT.md).
 
 [Fonti e risorse](sources/SOURCE_MAP.md) ·
-[Esempio: visione e capacità presenti](examples/vision-and-present.md)
+[Esempio: visione e capacità presenti](examples/vision-and-present.md) · [Evoluzione del kernel](CHANGELOG.md)
 
 ## Uso e licenza
 
@@ -73,7 +79,7 @@ serve a renderli più sicuri. [Licenza](LICENSE) · [Come si applica](docs/LICEN
 
 ## Metodo e casi da adattare
 
-La **0.2.0** porta il sapere sulla provenienza effettiva, sui contenuti che
+La **0.2.1** porta il sapere sulla provenienza effettiva, sui contenuti che
 cambiano nel tempo, sulla propagazione fra assistenti e sull’integrità dei
 controlli durante modifiche e deleghe.
 

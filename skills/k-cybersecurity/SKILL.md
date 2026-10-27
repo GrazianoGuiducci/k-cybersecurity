@@ -15,6 +15,8 @@ Quando distribuisci questa entry, rendi raggiungibili anche quei corpi: il
 solo nome della skill non trasferisce il kernel. Un host può usare l'intera
 cartella, un progetto, un pacchetto o un adapter che raggiunge il medesimo owner.
 
+La [sicurezza durante il lavoro](../../docs/SECURITY_IN_OPERATION.md) rende pertinente la distinzione fra contenuti e istruzioni, trasformazioni fra riceventi e garanzie che devono conservare significato mentre il sistema cambia. Raggiungila quando può incidere sul lavoro, integrandola nelle competenze già pertinenti.
+
 Parti dal contesto e dal mandato già presenti; forma il sapere mancante,
 componi i mezzi effettivi e fai continuare l'apprendimento nello spazio
 dell'istanza. La visione resta attiva mentre il sistema si evolve.
