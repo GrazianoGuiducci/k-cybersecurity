@@ -4,6 +4,16 @@ Un assistente legge documenti, ricorda decisioni, usa strumenti e coopera con pe
 
 La sicurezza tecnica e fisica comprende persone, dispositivi, accessi, servizi e dati. Quella cognitiva e semantica comprende come fonti, interpretazioni, memoria e istruzioni diventano conoscenza e azione. Una contaminazione può arrivare dall’esterno o nascere da una nostra trasformazione che perde il significato originale.
 
+## Il manifesto: riconoscere, reagire e formare nuove possibilità
+
+> un sistema deve essere in grado di riconoscere cosa accade e reagire oltre le capacità del sistema di difendersi , magari contrattaccando.
+
+— Graziano Guiducci, 27 ottobre 2026. Originale italiano.
+
+Il manifesto di Graziano Guiducci dà una direzione alla formazione delle capacità. Un sistema attento può comprendere una minaccia, proteggersi, reagire e sviluppare risposte che superano i mezzi già presenti.
+
+Questa visione comprende contrattacco, blocco dell’attaccante e contributo alla giustizia. Conoscenze, strumenti, cooperazioni e responsabilità prendono forma nel caso concreto. La visione resta aperta mentre ogni intervento conserva il proprio oggetto, mandato e conseguenze.
+
 ## Difesa passiva e attiva nello stesso sistema
 
 ### Difesa passiva: rendere più difficile la perdita

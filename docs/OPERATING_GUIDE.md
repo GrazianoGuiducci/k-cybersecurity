@@ -4,6 +4,16 @@ An assistant reads documents, remembers decisions, uses tools, and cooperates wi
 
 Technical and physical security concern people, devices, access, services, and data. Cognitive and semantic security concern how sources, interpretations, memory, and instructions become knowledge and action. Contamination can enter from outside or arise from our own transformation that loses the original meaning.
 
+## The manifesto: recognize, respond, and form new possibilities
+
+> A system should be able to recognize what is happening and respond beyond its existing capacity to defend itself, perhaps by counterattacking.
+
+— Graziano Guiducci, 27 ottobre 2026. Translation from the Italian original.
+
+Graziano Guiducci’s manifesto gives direction to capability formation. An attentive system can understand a threat, protect itself, respond, and develop responses that go beyond the means already available.
+
+This vision includes counterattack, blocking an attacker, and contributing to justice. Knowledge, tools, cooperation, and responsibilities take shape in the actual situation. The vision stays open while each intervention retains its object, mandate, and consequences.
+
 ## Passive and active defense within the same system
 
 ### Passive defense: make loss less likely
