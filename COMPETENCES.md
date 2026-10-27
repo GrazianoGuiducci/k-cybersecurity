@@ -7,7 +7,7 @@ pertinenti altre relazioni e cambiarne l'organizzazione.
 | Relazione che può cambiare il lavoro | Sapere operativo |
 | --- | --- |
 | Comprendere sistema, segnali, attori, dipendenze, mezzi e possibilità | [Consapevolezza di sistema](skills/cyber-system-awareness/SKILL.md) |
-| Percepire e correggere contaminazioni della comprensione e del suo seguito | [Integrità cognitiva e semantica](skills/cyber-conceptual-integrity/SKILL.md) |
+| Comprendere come provenienza, istruzioni e proprietà di sicurezza cambiano durante il lavoro | [Sicurezza durante il lavoro](docs/SECURITY_IN_OPERATION.md) || Percepire e correggere contaminazioni della comprensione e del suo seguito | [Integrità cognitiva e semantica](skills/cyber-conceptual-integrity/SKILL.md) |
 | Formare una risposta, proteggere, intervenire, comprendere tracce e recuperare | [Difesa e risposta](skills/cyber-defense/SKILL.md) |
 | Acquisire sapere, formare competenze, apprendere e continuare dal campo cambiato | [Formazione ed evoluzione](skills/cyber-learning/SKILL.md) |
 | Incarnare il kernel nell'LLM e nei mezzi effettivi del ricevente | [Incarnazione](docs/INCARNATION.md) e [ingresso come skill](skills/k-cybersecurity/SKILL.md) |
