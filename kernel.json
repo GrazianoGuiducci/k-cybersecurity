@@ -1,6 +1,6 @@
 {
   "name": "K-Cybersecurity",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "form": "llm-first-functional-kernel",
   "repository": "https://github.com/GrazianoGuiducci/k-cybersecurity",
   "entry": "BOOT.md",
@@ -20,5 +20,8 @@
   "license": "LicenseRef-K-Cybersecurity-Noncommercial-1.0",
   "license_file": "LICENSE",
   "commercial_use": "Separate written commercial license required",
-  "meaning": "Discovery map; the manifest does not exhaust the competence field."
+  "meaning": "Discovery map; the manifest does not exhaust the competence field.",
+  "security_in_operation": "docs/SECURITY_IN_OPERATION.md",
+  "learning_example": "examples/security-through-changes.md",
+  "changelog": "CHANGELOG.md"
 }
