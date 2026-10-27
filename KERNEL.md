@@ -101,3 +101,7 @@ ancora causali. Il presente dell'istanza raggiunge quella guida e porta il
 movimento corrente. Il rientro ricompone questa relazione con il nuovo evento.
 Una capacità esercitata, una sorgente condivisa e un'apprendimento assimilato
 conservano ciascuno il proprio significato.
+
+## Sicurezza nella progettazione e nell’evoluzione
+
+La facoltà discriminante partecipa quando si formano competenze, memorie e deleghe: riconosce provenienza, contenuti mutevoli e propagazione delle istruzioni. La difesa comprende anche l’integrità dei controlli durante una trasformazione del sistema. Il [metodo dell’evoluzione periodica](docs/EVOLUTION.md) fa continuare ricerca, strategie e ritorno del sapere nelle capacità pertinenti.

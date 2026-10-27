@@ -1,35 +1,41 @@
 # Presente di K-Cybersecurity
 
-Aggiornato: 27 ottobre 2026. Versione del nucleo: 0.1.0.
+Aggiornato: 27 ottobre 2026. Versione del nucleo: **0.2.0**.
 
-## Risultante corrente
+## Il manifesto e la capacità disponibile
 
-Il kernel pubblico prende forma attraverso il [manifesto](MANIFESTO.md), il
-[nucleo](KERNEL.md), il [campo delle competenze](COMPETENCES.md) e il
-[metodo d'incarnazione](docs/INCARNATION.md). Il ricevente può già usare
-questo sapere per formare domande, comprendere il sistema e organizzare
-un movimento di sicurezza nel proprio ambiente.
+Il [manifesto di Graziano Guiducci](MANIFESTO.md) forma la direzione: un sistema
+che riconosce ciò che accade, si protegge, reagisce e sviluppa capacità oltre
+quelle già presenti. Protezione passiva e risposta attiva partecipano alla
+sicurezza tecnica, fisica, cognitiva e semantica. La visione comprende
+contrattacco, blocco dell’attaccante e contributo alla giustizia; i mezzi e le
+responsabilità di ciascun intervento prendono forma nel suo contesto.
 
-La prima organizzazione comprende consapevolezza di sistema, integrità
-cognitiva e semantica, difesa/risposta e formazione/evoluzione. I loro corpi
-contengono sapere operativo e continuità; il campo può cambiarne la forma.
+Il nucleo include quattro competenze e il sapere necessario a incarnarle
+nel ricevente. La [guida italiana](docs/GUIDA_OPERATIVA.md) e la
+[guida inglese](docs/OPERATING_GUIDE.md) collegano metodo, tre casi illustrativi,
+adattamento e primo avvio. I casi spiegano possibilità d’uso e conservano
+questo statuto rispetto a risultati osservati.
 
-## Direzione operante
+## Sapere trasferito nella 0.2.0
 
-Sicurezza tecnica, fisica, cognitiva e semantica, attenzione permanente,
-difesa attiva, reazione e contrattacco, blocco dell'attaccante e giustizia.
-Il manifesto rende possibili nuove capacità; il presente tecnologico
-partecipa alla costruzione senza costituirne il perimetro.
+L’integrità concettuale comprende provenienza effettiva, contenuti che
+cambiano nel tempo e propagazione attraverso memoria, messaggi e agenti.
+La difesa conserva l’integrità dei controlli mentre deleghe, codice e
+configurazione trasformano il sistema. Questo sapere partecipa anche alla
+progettazione e alla formazione delle competenze.
+
+Il [metodo dell’evoluzione periodica](docs/EVOLUTION.md) collega ricerca,
+strategia, integrazione e apprendimento dell’attività stessa. Ogni ricevente
+ne organizza fonti, persistenza, controller e cadenza nel proprio ambiente.
+La conoscenza trasferita e l’attivazione concreta mantengono la propria identità.
 
 ## Continuazione
 
-Il lavoro del ricevente fa evolvere la propria incarnazione e può insegnare
-al nucleo condiviso. Le prossime possibilità comprendono nuovi saperi,
-adattamenti a host e organizzazioni, mezzi di difesa e rappresentazioni
-che aiutino persone e sistemi a comprendere e intervenire.
+Il lavoro dell’istanza può cambiare la competenza e restituire al nucleo
+pubblico un apprendimento generalizzabile. Contesto, accessi, dati e tracce
+locali restano nello spazio del ricevente. Gli usi successivi potranno
+approfondire il metodo e la sua incarnazione.
 
-[Aziende e consulenza](docs/COMPANIES.md) porta il raccordo di prodotto.
-[Fonti](sources/SOURCE_MAP.md) collega le risorse tecniche e concettuali.
-La [licenza selezionata](docs/LICENSING.md) rende libero e gratuito l'uso
-personale e non commerciale; ogni uso commerciale richiede un accordo
-separato. Il futuro inserimento nei cataloghi conserva il proprio movimento.
+[Adozione](docs/INCARNATION.md) · [Aziende](docs/COMPANIES.md) ·
+[Fonti](sources/SOURCE_MAP.md) · [Termini](docs/LICENSING.md).

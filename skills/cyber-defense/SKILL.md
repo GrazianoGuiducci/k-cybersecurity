@@ -32,6 +32,24 @@ realizza o forma la capacità mancante. Valuta input, ambiente, effetti
 collaterali e modo di leggere l'esito. Un ambiente isolato può rendere possibile
 un esercizio tecnico senza esporre il sistema protetto a quel processo.
 
+## Protezione e integrità dei controlli
+
+La protezione può comprendere separazione degli accessi e degli ambienti,
+integrità delle dipendenze, copie recuperabili e memoria collegata alle fonti.
+La scelta segue ciò che il sistema deve preservare e i mezzi effettivi.
+
+Una modifica autorizzata può attraversare deleghe, codice e configurazione
+e cambiare una proprietà di sicurezza. Quando tocca monitoraggio, avvisi,
+registri o isolamento, conserva scopo del controllo, owner e relazione con
+il carico reale. Osserva la configurazione effettiva, la copertura anche di
+agenti delegati e sottoprocessi, e il percorso con cui un evento raggiunge
+chi deve rispondere. Un rapporto dell’esecutore e un test adattato alla nuova
+implementazione conservano la portata di ciò che mostrano; una fonte di
+osservazione capace di dissentire può correggere la conclusione.
+
+Questo sapere agisce quando la trasformazione coinvolge quella garanzia.
+Ragioni, fonti e conseguenza tornano nel metodo che produce il cambiamento.
+
 ## Difesa attiva
 
 Contenimento, isolamento, revoca di accessi, protezione dei dati, interruzione

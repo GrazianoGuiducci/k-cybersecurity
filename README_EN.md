@@ -34,7 +34,7 @@ carries reusable knowledge and can learn from suitable contributions.
 - [Companies and consulting](docs/COMPANIES.md) connects adoption to real work.
 - [Sources](sources/SOURCE_MAP.md) makes external resources reachable.
 
-Version **0.1.0** is the first LLM-first core, expressed in readable Markdown
+Version **0.2.0** is the first LLM-first core, expressed in readable Markdown
 and a small discovery manifest. Its working documents are in Italian.
 [Italian entry](README.md) · [Current direction](CURRENT.md)
 
@@ -44,3 +44,12 @@ Personal and other noncommercial use is free under [LICENSE](LICENSE).
 Every commercial use requires a separate commercial license, including resale,
 paid services, consulting, business operations, and integration into commercial
 systems to improve their security. [Licensing guide](docs/LICENSING.md).
+
+## Method and adaptable cases
+
+**0.2.0** includes actual provenance, content that changes over time,
+propagation between assistants, and control integrity through changes
+and delegation.
+
+[Operating guide and three illustrative cases](docs/OPERATING_GUIDE.md) ·
+[Periodic security evolution](docs/EVOLUTION.md#periodic-security-evolution--english).

@@ -59,6 +59,20 @@ relazione all'istanza già evoluta, preservandone contributi e ragioni.
 L'apprendimento condiviso mantiene la provenienza; i dettagli del ricevente
 restano presso il loro owner.
 
+## Evoluzione periodica nel ricevente
+
+La sicurezza può imparare da ricerca, incidenti pubblicati, cambiamenti
+dell’ambiente e conseguenze del proprio lavoro. Il
+[metodo dell’evoluzione periodica](../../docs/EVOLUTION.md) insegna come
+formare una strategia, integrarla nella competenza o nel componente pertinente
+e far evolvere anche il modo di cercare e apprendere. Un’attività programmata
+può incarnare questa continuità nel controller disponibile al ricevente.
+
+La frequenza segue l’utilità del contesto. La nuova conoscenza può cambiare
+domanda, fonti, mezzi e forma del metodo; la precedente rappresentazione del
+sistema è un ingresso parziale. Conserva gli apporti paralleli e la
+possibilità di concludere senza modifica quando non emerge un delta utile.
+
 ## Guida interna e seguito
 
 Questo corpo conserva il metodo generativo iniziale. Il ricevente ne accumula

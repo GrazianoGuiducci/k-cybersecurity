@@ -55,7 +55,7 @@ l'istanza del destinatario conserva contesto e apprendimento locale.
 
 ## Il nucleo disponibile
 
-La prima incarnazione, **0.1.0**, contiene il nucleo semantico, il manifesto,
+L’edizione corrente, **0.2.0**, contiene il nucleo semantico, il manifesto,
 quattro corpi di competenza e un ingresso utilizzabile come skill. I file
 portano logiche e conoscenza attraverso cui il ricevente può organizzarsi.
 Strumenti di analisi, sistemi di controllo e processi esecutivi si compongono
@@ -70,3 +70,12 @@ nel suo ambiente. [Presente e direzione](CURRENT.md).
 commerciale separata.** La distinzione comprende rivendita, servizi,
 consulenze e integrazione in sistemi commerciali, anche quando il kernel
 serve a renderli più sicuri. [Licenza](LICENSE) · [Come si applica](docs/LICENSING.md).
+
+## Metodo e casi da adattare
+
+La **0.2.0** porta il sapere sulla provenienza effettiva, sui contenuti che
+cambiano nel tempo, sulla propagazione fra assistenti e sull’integrità dei
+controlli durante modifiche e deleghe.
+
+[Guida operativa e tre casi illustrativi](docs/GUIDA_OPERATIVA.md) ·
+[Evoluzione attraverso un’attività periodica](docs/EVOLUTION.md).

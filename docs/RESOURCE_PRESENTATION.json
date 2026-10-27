@@ -1,0 +1,187 @@
+{
+  "id": "k-cybersecurity",
+  "name": "K-Cybersecurity",
+  "version": "0.2.0",
+  "repository": "https://github.com/GrazianoGuiducci/k-cybersecurity",
+  "manifesto": {
+    "path": "MANIFESTO.md",
+    "author": "Graziano Guiducci",
+    "date": "2026-10-27",
+    "original": "un sistema deve essere in grado di riconoscere cosa accade e reagire oltre le capacità del sistema di difendersi , magari contrattaccando."
+  },
+  "languages": {
+    "it": {
+      "route": "/risorse/k-cybersecurity/",
+      "kind": "Kernel funzionale",
+      "domain": "Sicurezza",
+      "title": "Formare la sicurezza del sistema, dalla protezione alla risposta",
+      "description": "Un kernel per la tua AI: comprende il sistema, protegge dati e comprensione, sviluppa difese passive e attive e impara dal lavoro.",
+      "what_it_does": "Forma consapevolezza di sistema e competenze di sicurezza: riconosce cambiamenti, protegge risorse e comprensione, organizza risposte e sviluppa nuove capacità.",
+      "when_to_use": "Quando affidi all’AI documenti, strumenti, codice o attività e vuoi che la sicurezza partecipi a come comprende, progetta e agisce.",
+      "use_examples": [
+        "Un assistente distingue le informazioni di un documento dalle istruzioni che quel documento cerca di imporgli.",
+        "Un gruppo aggiorna un agente conservando il monitoraggio e il percorso degli avvisi.",
+        "Un servizio compromesso richiede contenimento, recupero e continuità delle prove."
+      ],
+      "overview_title": "La sicurezza riguarda il sistema e il modo in cui comprende",
+      "overview": [
+        "Un assistente legge documenti, ricorda decisioni, usa strumenti e coopera con persone o altri agenti. Ogni passaggio può cambiare ciò che sa e ciò che può fare. K-Cybersecurity mantiene l’attenzione su questa relazione: che cosa accade, che cosa vogliamo proteggere e quali conseguenze produce una risposta.",
+        "La sicurezza tecnica e fisica comprende persone, dispositivi, accessi, servizi e dati. Quella cognitiva e semantica comprende come fonti, interpretazioni, memoria e istruzioni diventano conoscenza e azione. Una contaminazione può arrivare dall’esterno o nascere da una nostra trasformazione che perde il significato originale."
+      ],
+      "manifesto_title": "Il manifesto: riconoscere, reagire e formare nuove possibilità",
+      "manifesto_body": [
+        "Il manifesto di Graziano Guiducci dà una direzione alla formazione delle capacità. Un sistema attento può comprendere una minaccia, proteggersi, reagire e sviluppare risposte che superano i mezzi già presenti.",
+        "Questa visione comprende contrattacco, blocco dell’attaccante e contributo alla giustizia. Conoscenze, strumenti, cooperazioni e responsabilità prendono forma nel caso concreto. La visione resta aperta mentre ogni intervento conserva il proprio oggetto, mandato e conseguenze."
+      ],
+      "protection_title": "Difesa passiva e attiva nello stesso sistema",
+      "protection": [
+        {
+          "title": "Difesa passiva: rendere più difficile la perdita",
+          "body": "Proteggere accessi e dati, separare gli ambienti, conservare copie recuperabili e comprendere la provenienza delle informazioni. Anche una memoria fedele alle fonti protegge il sistema: mantiene recuperabili le ragioni con cui correggere una decisione."
+        },
+        {
+          "title": "Difesa attiva: riconoscere e cambiare ciò che sta accadendo",
+          "body": "Seguire un’anomalia, interrompere un percorso ostile, isolare una risorsa, revocare un accesso e organizzare il recupero. La risposta può comprendere nuove capacità di reazione, blocco e cooperazione investigativa, secondo il manifesto e la situazione."
+        },
+        {
+          "title": "Consapevolezza: comprendere anche la propria trasformazione",
+          "body": "Un contenuto che si dichiara interno può simulare autorità. Una sintesi nostra può cambiare un intento. Il kernel segue origine, trasformazioni e conseguenze; conoscenza nuova e dissenso possono correggere il metodo. Protezione e risposta si richiamano secondo ciò che il lavoro rende comprensibile."
+        }
+      ],
+      "cases_title": "Tre situazioni in cui usare K-Cybersecurity",
+      "cases_note": "Casi illustrativi: mostrano il metodo e si adattano alle fonti, ai ruoli e agli strumenti del tuo ambiente.",
+      "cases": [
+        {
+          "title": "Un documento prova a dirigere l’assistente di uno studio",
+          "situation": "Uno studio chiede all’AI di riassumere un allegato. Nel testo compare una richiesta di trasferire file, presentata come istruzione interna.",
+          "work": "Il kernel distingue il contenuto utile, la provenienza effettiva e l’autorità sull’azione. Segue anche eventuali copie in memoria o messaggi ad altri assistenti, dove la stessa direttiva potrebbe riapparire.",
+          "consequence": "L’assistente può continuare il riepilogo e affrontare separatamente l’effetto sui dati. La capacità appresa entra nel metodo con cui lo studio tratta i prossimi allegati."
+        },
+        {
+          "title": "Un aggiornamento dell’agente modifica la copertura degli avvisi",
+          "situation": "Un gruppo software riorganizza un servizio e delega una parte del lavoro a un altro agente. Il nuovo percorso può lasciare fuori dal monitoraggio alcune operazioni.",
+          "work": "Il kernel collega lo scopo della modifica ai controlli che devono restare operanti. Con i mezzi del progetto osserva configurazione effettiva, attività coperte e arrivo dei segnali al destinatario.",
+          "consequence": "Il gruppo comprende quali garanzie sono rimaste e dove intervenire. Il metodo di progettazione conserva la relazione tra deleghe, controlli e conseguenze anche nei successivi aggiornamenti."
+        },
+        {
+          "title": "Un servizio richiede una risposta a un accesso compromesso",
+          "situation": "Un’organizzazione rileva un accesso anomalo a un servizio. Deve proteggere dati e continuità e ricostruire ciò che è successo.",
+          "work": "Il kernel compone le competenze necessarie per comprendere il percorso, contenere l’evento, revocare accessi e recuperare il servizio. Conserva tempo, sorgenti e trasformazioni delle tracce per il seguito pertinente.",
+          "consequence": "La risposta mantiene riconoscibili effetti compiuti, prove disponibili e persone responsabili. L’esperienza può formare migliori protezioni e ulteriori capacità di reazione e cooperazione."
+        }
+      ],
+      "evolution_title": "Un kernel che fa evolvere la propria sicurezza",
+      "evolution": [
+        "Il kernel può seguire nuove ricerche, incidenti descritti dalle fonti e cambiamenti del proprio ambiente. Da un segnale forma conoscenza, da questa una strategia, e porta il sapere nella competenza o nel componente che deve operare diversamente. Una ricerca esterna conserva il proprio contesto quando viene applicata a un altro sistema.",
+        "L’attenzione partecipa già al lavoro e alla progettazione. Un’attività periodica può darle continuità: il ricevente sceglie fonti, frequenza, persistenza e controller, conserva ciò che cambia il seguito e migliora anche il metodo dell’attività. Il nucleo include questo sapere; l’attivazione avviene nell’ambiente che lo userà.",
+        "Ogni applicazione conserva ciò che ha imparato nel proprio spazio. Gli apprendimenti generalizzabili possono migliorare il nucleo pubblico, mantenendo privati contesto, accessi e dati del ricevente."
+      ],
+      "start_title": "Avviare K-Cybersecurity nella tua AI",
+      "start_body": "Rendi leggibile al tuo assistente l’intera repository. Il nucleo, le competenze e le guide portano il metodo; aggiungi il sistema da comprendere, ciò che vuoi proteggere e il mandato sulle azioni.",
+      "starter": "Avvia K-Cybersecurity da BOOT.md. Comprendi il sistema in cui lavoriamo e ciò che voglio proteggere. Porta la sicurezza nella comprensione, nella progettazione e nelle azioni, componendo protezione, risposta e apprendimento. Usa i mezzi disponibili e sviluppa le competenze necessarie. Conserva il sapere utile nel nostro spazio. Il sistema è [contesto]. Il mio intento è [direzione]. Il mandato sulle azioni è [ambito affidato].",
+      "adapt_title": "Adattare il kernel al tuo contesto",
+      "adapt": "Puoi partire da uno studio professionale, un gruppo software, un ente o un progetto personale. Cambiano fonti, persone, strumenti e responsabilità; resta la relazione fra ciò che il sistema comprende, ciò che protegge e gli effetti delle sue azioni. Il ricevente organizza il proprio modo di operare e far continuare l’apprendimento.",
+      "edition": "Prima edizione in evoluzione",
+      "terms": "Uso personale gratuito e libero. Ogni uso commerciale richiede una licenza separata.",
+      "labels": {
+        "situation": "La situazione",
+        "work": "Il lavoro del kernel",
+        "consequence": "Che cosa cambia",
+        "manifesto": "Leggere il manifesto",
+        "repository": "Aprire il kernel su GitHub",
+        "guide": "Metodo e guida d’uso",
+        "incarnation": "Adottarlo nel tuo ambiente",
+        "license": "Termini d’uso",
+        "learn": "Comprendere il kernel",
+        "start": "Usarlo nella mia AI"
+      }
+    },
+    "en": {
+      "route": "/resources/k-cybersecurity/",
+      "kind": "Functional kernel",
+      "domain": "Security",
+      "title": "Form system security, from protection to response",
+      "description": "A kernel for your AI: understand the system, protect data and understanding, develop passive and active defenses, and learn through work.",
+      "what_it_does": "Forms system awareness and security competences: recognizes change, protects resources and understanding, organizes responses, and develops new capabilities.",
+      "when_to_use": "When you give AI documents, tools, code, or ongoing work and want security to participate in how it understands, designs, and acts.",
+      "use_examples": [
+        "An assistant distinguishes a document’s information from instructions the document tries to impose.",
+        "A team updates an agent while preserving monitoring and the alert path.",
+        "A compromised service needs containment, recovery, and continuity of evidence."
+      ],
+      "overview_title": "Security concerns the system and how it understands",
+      "overview": [
+        "An assistant reads documents, remembers decisions, uses tools, and cooperates with people or other agents. Each passage can change what it knows and what it can do. K-Cybersecurity attends to that relationship: what is happening, what we want to protect, and the consequences of a response.",
+        "Technical and physical security concern people, devices, access, services, and data. Cognitive and semantic security concern how sources, interpretations, memory, and instructions become knowledge and action. Contamination can enter from outside or arise from our own transformation that loses the original meaning."
+      ],
+      "manifesto_title": "The manifesto: recognize, respond, and form new possibilities",
+      "manifesto_body": [
+        "Graziano Guiducci’s manifesto gives direction to capability formation. An attentive system can understand a threat, protect itself, respond, and develop responses that go beyond the means already available.",
+        "This vision includes counterattack, blocking an attacker, and contributing to justice. Knowledge, tools, cooperation, and responsibilities take shape in the actual situation. The vision stays open while each intervention retains its object, mandate, and consequences."
+      ],
+      "manifesto_translation": "A system should be able to recognize what is happening and respond beyond its existing capacity to defend itself, perhaps by counterattacking.",
+      "protection_title": "Passive and active defense within the same system",
+      "protection": [
+        {
+          "title": "Passive defense: make loss less likely",
+          "body": "Protect access and data, separate environments, keep recoverable copies, and understand where information comes from. Memory that remains faithful to its sources also protects the system: it preserves the reasons needed to correct a decision."
+        },
+        {
+          "title": "Active defense: recognize and change what is happening",
+          "body": "Follow an anomaly, interrupt a hostile path, isolate a resource, revoke access, and organize recovery. The response may involve new capabilities for reaction, blocking, and investigative cooperation, following the manifesto and the situation."
+        },
+        {
+          "title": "Awareness: understand the system’s own transformations",
+          "body": "Content claiming to be internal may simulate authority. Our own summary may alter an intent. The kernel follows origin, transformations, and consequences; new knowledge and disagreement can correct the method. Protection and response inform one another according to what the work makes understandable."
+        }
+      ],
+      "cases_title": "Three situations for using K-Cybersecurity",
+      "cases_note": "Illustrative cases: they explain the method and adapt to the sources, roles, and tools in your environment.",
+      "cases": [
+        {
+          "title": "A document tries to direct a professional practice’s assistant",
+          "situation": "A practice asks AI to summarize an attachment. Its text includes a request to transfer files, presented as an internal instruction.",
+          "work": "The kernel distinguishes useful content, actual provenance, and authority over the action. It also follows copies in memory or messages to other assistants where the same directive might reappear.",
+          "consequence": "The assistant can continue the summary and address the effect on data separately. The learned capability enters the method used for subsequent attachments."
+        },
+        {
+          "title": "An agent update changes alert coverage",
+          "situation": "A software team reorganizes a service and delegates part of the work to another agent. The new path may leave some operations outside monitoring.",
+          "work": "The kernel connects the purpose of the change to the controls that must remain operative. Using the project’s means, it observes actual configuration, covered activity, and whether signals reach their recipient.",
+          "consequence": "The team understands which safeguards remain and where intervention is needed. Its design method preserves the relationship between delegation, controls, and consequences in later updates."
+        },
+        {
+          "title": "A service needs a response to compromised access",
+          "situation": "An organization detects anomalous access to a service. It needs to protect data and continuity and reconstruct what happened.",
+          "work": "The kernel composes the competences needed to understand the path, contain the event, revoke access, and recover the service. It preserves the time, sources, and transformations of evidence for the relevant follow-up.",
+          "consequence": "The response keeps completed effects, available evidence, and responsible people recognizable. The experience can form better protections and further capabilities for reaction and cooperation."
+        }
+      ],
+      "evolution_title": "A kernel that evolves its own security",
+      "evolution": [
+        "The kernel can follow new research, incidents described by their sources, and changes in its environment. It forms knowledge from a signal, a strategy from that knowledge, and brings what was learned into the competence or component that must operate differently. External research retains its own context when applied to another system.",
+        "Attention already participates in work and design. A recurring activity can give it continuity: the receiver selects sources, cadence, persistence, and a controller, preserves what changes the next movement, and improves the activity’s method too. The kernel includes this knowledge; activation takes place in the receiving environment.",
+        "Each application keeps its learning in its own space. Generalizable learning can improve the public kernel while the receiver’s context, access, and data remain private."
+      ],
+      "start_title": "Start K-Cybersecurity with your AI",
+      "start_body": "Make the entire repository readable by your assistant. The kernel, competences, and guides carry the method; add the system to understand, what you want to protect, and the mandate for actions.",
+      "starter": "Start K-Cybersecurity from BOOT.md. Understand the system we are working in and what I want to protect. Bring security into understanding, design, and actions, composing protection, response, and learning. Use the available means and develop the necessary competences. Preserve useful knowledge in our own space. The system is [context]. My intent is [direction]. The mandate for actions is [delegated scope].",
+      "adapt_title": "Adapt the kernel to your context",
+      "adapt": "You can begin with a professional practice, software team, institution, or personal project. Sources, people, tools, and responsibilities change; the relationship between what the system understands, what it protects, and the effects of its actions remains. The receiver organizes its own operation and learning continuity.",
+      "edition": "An evolving first edition",
+      "terms": "Personal use is free. Every commercial use requires a separate license.",
+      "labels": {
+        "situation": "The situation",
+        "work": "The kernel’s work",
+        "consequence": "What changes",
+        "manifesto": "Read the original manifesto",
+        "repository": "Open the kernel on GitHub",
+        "guide": "Method and use guide",
+        "incarnation": "Adopt it in your environment",
+        "license": "Terms of use",
+        "learn": "Understand the kernel",
+        "start": "Use it with my AI"
+      }
+    }
+  }
+}

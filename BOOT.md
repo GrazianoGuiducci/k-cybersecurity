@@ -27,3 +27,5 @@ una forma situata. [Come incarnarlo](docs/INCARNATION.md).
 Per iniziare: «Avvia K-Cybersecurity da BOOT.md. Comprendi [sistema e intento],
 usa i mezzi di questo ambiente, sviluppa le competenze necessarie e conserva
 il sapere che cambia il lavoro successivo. Il mandato sulle azioni è [ambito]».
+
+La [guida operativa](docs/GUIDA_OPERATIVA.md) e l’[English operating guide](docs/OPERATING_GUIDE.md) collegano protezione, risposta e casi adattabili. Il [metodo dell’evoluzione periodica](docs/EVOLUTION.md) forma la continuità con i mezzi del ricevente.
