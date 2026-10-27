@@ -1,6 +1,14 @@
 # Presente di K-Cybersecurity
 
-Aggiornato: 27 ottobre 2026. Versione del nucleo: 0.1.0.
+Aggiornato: 27 ottobre 2026. Versione del nucleo: 0.2.0.
+
+## 0.2.0 — Sicurezza durante il lavoro
+
+La [guida operativa](docs/SECURITY_IN_OPERATION.md) porta la discriminazione fra provenienza, contenuto, direttive e autorità nel movimento delle competenze. Il kernel considera la variazione dei contenuti tra ricevitori e la continuità di protezioni materiali durante modifiche e deleghe. [Un caso illustrativo](examples/security-through-changes.md) rende comprensibile come questa facoltà possa partecipare a una migrazione di software.
+
+Il percorso di scoperta è ora collegato da README, BOOT, KERNEL, campo delle competenze e skill di ingresso. [Integrità cognitiva e semantica](skills/cyber-conceptual-integrity/SKILL.md) ha ricevuto un approfondimento nativo; le altre competenze conservano i loro metodi precedenti e raggiungono la nuova guida attraverso il nucleo. Il loro approfondimento specifico resta una possibilità di evoluzione, distinta da ciò che è stato scritto.
+
+Questa revisione pubblica rende il sapere leggibile e utilizzabile da un ricevente. Il suo esercizio autonomo, l'eventuale integrazione in un sistema tecnico e l'efficacia delle difese richiedono riscontri nel contesto del ricevente. Versione del nucleo, pubblicazione del sito e release installabile mantengono stati distinti.
 
 ## Risultante corrente
 
