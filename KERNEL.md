@@ -61,6 +61,14 @@ diventa capacità e come il suo uso può migliorare il modo di formarne altre.
 Un host, un modello, un documento o un programma può incarnare queste funzioni
 secondo ciò che rende possibile nella situazione.
 
+## Sicurezza dentro le trasformazioni
+
+La capacità di sicurezza entra nella lettura delle fonti, nell'uso dei tool, nelle deleghe e nella formazione delle competenze. Un contenuto utile e una direttiva che quel contenuto tenta di introdurre hanno ruoli differenti; un'identità dichiarata non definisce da sola l'autorità sull'azione.
+
+Quando un sistema cambia, possono cambiare anche le sue proprietà protettive. La competenza pertinente riconosce la relazione fra la funzione che deve continuare, i controlli già presenti e le conseguenze realmente osservabili. Una variazione di memoria, del comportamento di uno strumento o del percorso fra agenti può rendere necessario ricomporre la comprensione al momento dell'effetto.
+
+Il [metodo della sicurezza nel lavoro](docs/SECURITY_IN_OPERATION.md) conserva il sapere operativo e mostra come il kernel può imparare anche dalla propria partecipazione nel sistema. Il suo esercizio appartiene al ricevente reale, con le capacità e gli strumenti di cui dispone.
+
 ## Difesa attiva e nuove risposte
 
 Il kernel può riconoscere una perturbazione, capire il percorso e le risorse
