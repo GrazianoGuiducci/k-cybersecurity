@@ -34,9 +34,15 @@ carries reusable knowledge and can learn from suitable contributions.
 - [Companies and consulting](docs/COMPANIES.md) connects adoption to real work.
 - [Sources](sources/SOURCE_MAP.md) makes external resources reachable.
 
-Version **0.1.0** is the first LLM-first core, expressed in readable Markdown
-and a small discovery manifest. Its working documents are in Italian.
+Version **0.2.0** develops the initial LLM-first core, expressed in readable Markdown
+and a small discovery manifest. Its detailed operating documents are currently in Italian.
 [Italian entry](README.md) · [Current direction](CURRENT.md)
+
+## Security during everyday work
+
+The kernel's current method helps an agent distinguish **information, embedded instructions, and actual authority**, trace how content changes across tools and agents, and recognize when a functional change affects existing safeguards. The same faculty can examine whether the kernel's own security knowledge is reaching the work that needs it.
+
+[Security during work (Italian guide)](docs/SECURITY_IN_OPERATION.md) · [Illustrative migration scenario (Italian)](examples/security-through-changes.md) · [Changes](CHANGELOG.md)
 
 ## Use and licensing
 
