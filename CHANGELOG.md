@@ -6,8 +6,8 @@
 
 - [Sicurezza durante il lavoro e la formazione](docs/SECURITY_IN_OPERATION.md): provenienza effettiva, direttive incorporate, ruoli dichiarati, variazioni nel tempo e trasferimenti fra riceventi
 - [Esempio di trasformazione](examples/security-through-changes.md): mantenere leggibili le garanzie protettive mentre si modifica una pipeline
-- Competenze [integrità cognitiva](skills/cyber-conceptual-integrity/SKILL.md), [consapevolezza di sistema](skills/cyber-system-awareness/SKILL.md), [difesa](skills/cyber-defense/SKILL.md) e [formazione](skills/cyber-learning/SKILL.md) allineate al sapere aggiunto
-- Ingresso, nucleo, mappa delle competenze e guida del ricevente aggiornati
+- [Integrità cognitiva](skills/cyber-conceptual-integrity/SKILL.md) approfondita; le altre tre competenze conservano il proprio metodo e raggiungono la guida dal nucleo
+- README italiano e inglese, BOOT, KERNEL, mappa delle competenze e skill di ingresso aggiornati
 
 **Stato:** il metodo è disponibile come sorgente e skill per riceventi AI. La sua presenza nei file non dimostra installazione di strumenti difensivi, protezione attiva o assimilazione in ambienti esterni. Questo commit non è una pubblicazione o installazione su un sito distinto.
 
