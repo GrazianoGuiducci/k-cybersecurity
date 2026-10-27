@@ -1,0 +1,24 @@
+{
+  "name": "K-Cybersecurity",
+  "version": "0.1.0",
+  "form": "llm-first-functional-kernel",
+  "repository": "https://github.com/GrazianoGuiducci/k-cybersecurity",
+  "entry": "BOOT.md",
+  "core": "KERNEL.md",
+  "direction": "MANIFESTO.md",
+  "current": "CURRENT.md",
+  "competence_field": "COMPETENCES.md",
+  "incarnation": "docs/INCARNATION.md",
+  "receiver_state": "owned by the receiving instance",
+  "competences": {
+    "system-awareness": "skills/cyber-system-awareness/SKILL.md",
+    "conceptual-integrity": "skills/cyber-conceptual-integrity/SKILL.md",
+    "defense": "skills/cyber-defense/SKILL.md",
+    "learning": "skills/cyber-learning/SKILL.md"
+  },
+  "skill_entry": "skills/k-cybersecurity/SKILL.md",
+  "license": "LicenseRef-K-Cybersecurity-Noncommercial-1.0",
+  "license_file": "LICENSE",
+  "commercial_use": "Separate written commercial license required",
+  "meaning": "Discovery map; the manifest does not exhaust the competence field."
+}

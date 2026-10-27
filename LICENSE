@@ -1,0 +1,66 @@
+K-Cybersecurity Noncommercial Use License 1.0
+
+Copyright (c) 2026 Graziano Guiducci.
+
+1. Material and scope
+
+This license applies to the K-Cybersecurity materials made available with it,
+including kernel documents, instructions, competences, manifests, examples,
+and any code, except material expressly identified as carrying different terms.
+"You" includes a person or organization using those materials. Rights are
+granted only to the extent the licensor is entitled to grant them.
+
+2. Free noncommercial use
+
+You may access, use, reproduce, study, run, modify, and share the materials
+and adaptations without charge for personal and other noncommercial purposes.
+This includes using the materials with an LLM or agent for such purposes.
+Keep this license and the copyright notices with copies and adaptations,
+identify substantial changes, and provide recipients the same noncommercial
+permissions for material covered by this license. Do not represent an
+adaptation as an official product or endorsement of the licensor.
+
+3. Commercial use requires a separate license
+
+The free permission does not cover commercial use. Obtain a separate written
+commercial license from the licensor before any use primarily intended for
+commercial advantage, revenue, compensation, or other business benefit,
+whether direct or indirect. This includes:
+
+- selling, reselling, renting, licensing, or charging for access to the kernel
+  or adaptations;
+- supplying paid services, subscriptions, consultancy, or managed operations
+  that use or incorporate the kernel;
+- incorporating or using the kernel to enhance the security or functionality
+  of a commercial system, product, service, or business operation, including
+  when the kernel itself is not sold separately;
+- distributing or adapting the kernel as part of a commercial offering.
+
+Making a service free to its end user does not by itself make a commercial
+offering noncommercial. A separate commercial agreement defines its own
+scope, fees, conditions, and any redistribution or integration rights.
+
+4. Other rights and independent material
+
+This license does not transfer ownership of the kernel, grant trademark
+rights, or give access or authority over anyone's systems or data. Your own
+inputs, data, and independently created material remain subject to their own
+rights; this license does not claim ownership of every output produced with
+an LLM. Material reproduced or adapted from the kernel remains covered by its
+applicable terms. Third-party materials retain their own licenses.
+Rights, exceptions, and limitations that apply independently under law are
+unaffected. No commercial permission is implied by public availability.
+
+5. Compliance and termination
+
+Permissions under this license are conditional on compliance with its terms.
+They end for a use that violates those terms. The licensor may separately
+authorize that use or agree to its restoration in writing. The licensor may
+offer separate licenses without changing the terms attached to copies
+already granted under this license.
+
+6. Warranty and liability
+
+To the extent permitted by applicable law, the materials are provided as is,
+without warranty, and the licensor is not liable for damages arising from
+their use. Mandatory legal rights and liabilities remain unaffected.
