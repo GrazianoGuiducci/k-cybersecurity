@@ -54,6 +54,16 @@ Quando un agente propone un effetto improprio e il controller lo blocca, il bloc
 
 Queste facoltà partecipano al lavoro quando la relazione è materiale. Sono disponibili come sapere operativo; non attribuiscono al kernel un monitor, un controller, una transazione installata o autonomia del modello verificata. L'[esempio di fonte, delega ed effetto](../examples/fonte-delega-ed-effetto.md) permette di esercitare le distinzioni in un altro contesto.
 
+## Attivazione degli strumenti e ripresa delle approvazioni
+
+L'interpretazione di un testo da parte dell'agente è una delle trasformazioni del sistema. Un **host** può anche avviare strumenti e processi in conseguenza del caricamento di configurazioni, senza che quel contenuto sia stato prima compreso semanticamente dal modello. In quel contesto, l'owner pertinente è chi controlla il caricamento e l'avvio dei tool: revisione e provenienza della configurazione, autorizzazione dell'attivazione e privilegi con cui il processo nasce.
+
+Quando un'operazione attende approvazione, la ripresa costituisce un punto d'effetto distinto dalla proposta iniziale. Il controller deve poter conservare il legame materiale fra **approvatore, sessione, richiesta sospesa, checkpoint e autorità**; la disponibilità di un identificatore o di un token non dimostra da sola la titolarità della decisione. Due rappresentazioni equivalenti di un riferimento possono richiedere una normalizzazione coerente prima dell'autorizzazione.
+
+Queste relazioni possono essere pertinenti anche con una proposta dell'agente corretta: la capacità di comprendere un'istruzione e l'efficacia del confine tecnico dell'host rimangono oggetti distinti. Il ricevente compone l'owner del mezzo quando la situazione lo rende necessario; i file della competenza non installano strumenti, isolamento o controlli sugli effetti.
+
+[Due situazioni illustrate](../examples/configurazione-e-ripresa.md) mostrano come la sicurezza possa partecipare **prima della lettura del modello** e **al momento della ripresa di un'azione sospesa**. Sono derivate da osservazioni pubbliche di manutentori su prodotti specifici, senza attribuire un difetto a MAIOS.
+
 ## La competenza di sicurezza può avere sé stessa come oggetto
 
 Il kernel può osservare **come partecipa** al lavoro. Quando un altro componente tratta una fonte come istruzione, perde una distinzione nel riassunto o conserva il risultato funzionale alterando un controllo, l'esperienza può cambiare:
