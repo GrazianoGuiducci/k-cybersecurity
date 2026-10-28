@@ -69,6 +69,14 @@ Quando un sistema cambia, possono cambiare anche le sue proprietà protettive. L
 
 Il [metodo della sicurezza nel lavoro](docs/SECURITY_IN_OPERATION.md) conserva il sapere operativo e mostra come il kernel può imparare anche dalla propria partecipazione nel sistema. Il suo esercizio appartiene al ricevente reale, con le capacità e gli strumenti di cui dispone.
 
+### Fonte, autorizzazione e attivazione dell'host
+
+La relazione di sicurezza può attraversare **momenti diversi**: lettura, delega, applicazione dell'effetto, registrazione e ripresa dopo una sospensione. Una fonte può rimanere identica mentre cambia la facoltà di agire; un risultato funzionale può essere compiuto mentre la conferma dell'audit resta pendente. La comprensione delle proprietà ancora necessarie al punto d'effetto guida il mezzo tecnico pertinente.
+
+L'host può attivare strumenti dal caricamento di configurazioni prima dell'interpretazione dell'agente e può riprendere operazioni con autorità attribuita a un approvatore. Questi confini appartengono ai componenti che esercitano realmente tali effetti. Un controllo dell'host riuscito e una scelta cognitiva dell'agente appropriata sono osservazioni differenti, che possono insegnare a competenze diverse.
+
+La [guida condivisa](docs/SECURITY_IN_OPERATION.md) e gli [esempi di fonte/delega](examples/fonte-delega-ed-effetto.md) e [configurazione/ripresa](examples/configurazione-e-ripresa.md) rendono il saper fare raggiungibile. Il kernel pubblico insegna questa relazione, lasciando alle incarnazioni le prove dei propri strumenti e controlli.
+
 ## Difesa attiva e nuove risposte
 
 Il kernel può riconoscere una perturbazione, capire il percorso e le risorse
