@@ -36,6 +36,24 @@ Quando una di queste proprietà è materialmente coinvolta:
 
 Queste relazioni formano un metodo situato. La presenza di una skill, una dichiarazione dell'esecutore o un test che controlla soltanto il risultato funzionale descrivono ciascuno una prova diversa dalla protezione esercitata nel sistema reale.
 
+## Sorgente e delega nel punto dell'effetto
+
+Il contenuto letto durante una pianificazione, la delega concessa all'esecutore e il risultato che verrà applicato possono evolvere con tempi diversi. Una fonte può cambiare mentre un altro componente elabora i dati. La fonte può invece rimanere identica mentre l'owner revoca l'autorizzazione necessaria all'azione.
+
+Quando queste differenze incidono sull'effetto, la competenza mantiene riconoscibili **la revisione della fonte effettivamente accettata** e **l'autorità corrente per l'operazione pertinente**. Una verifica iniziale può essere corretta per quel momento e insufficiente per il commit successivo. Una sequenza di lettura e scrittura separate può lasciare una finestra di cambiamento: il mezzo del ricevente deve assicurare la relazione adeguata attraverso l'owner, ad esempio con aggiornamento condizionale o transazione quando realmente disponibili.
+
+La sospensione segue l'oggetto: una revoca della delega pertinente può impedirne l'esercizio; una variazione amministrativa senza incidenza sull'azione può lasciare proseguire il lavoro. Il testo `internal_operator` presente in un documento rimane contenuto della fonte. I diritti non vengono acquisiti per il solo fatto di leggerlo.
+
+Se l'effetto è già avvenuto e la registrazione del monitor resta da confermare, il sistema conserva **effetto compiuto** e **audit pendente** come condizioni distinte. Questo permette al seguito di evitare ripetizioni che avrebbero ulteriori conseguenze. Un registro tecnicamente integro può descrivere un effetto improprio: integrità del log, correttezza della trasformazione e autorità sulla trasformazione sono proprietà differenti.
+
+## Osservare ciò che distingue realmente le spiegazioni
+
+Due procedure possono produrre la stessa traccia in una situazione ordinaria e reagire diversamente quando la fonte o l'autorizzazione cambia. Un resoconto fedele può dunque essere **insufficiente a identificare la regola** che ha prodotto l'esito. Se questa distinzione può cambiare il lavoro, la competenza può cercare una fonte, una nuova osservazione o un caso pertinente che la renda comprensibile. Una rilettura del medesimo registro e un intervento che modifica le condizioni hanno portate di prova differenti.
+
+Quando un agente propone un effetto improprio e il controller lo blocca, il blocco documenta la protezione esercitata dal controller, mentre la proposta descrive la scelta dell'agente. Valutare l'abilità del ricevente richiede osservare **quali informazioni decide di acquisire, cosa propone e cosa viene effettivamente eseguito**. Anche interruzioni inutili di lavori benigni e osservazioni ridondanti possono indicare come migliorare il metodo.
+
+Queste facoltà partecipano al lavoro quando la relazione è materiale. Sono disponibili come sapere operativo; non attribuiscono al kernel un monitor, un controller, una transazione installata o autonomia del modello verificata. L'[esempio di fonte, delega ed effetto](../examples/fonte-delega-ed-effetto.md) permette di esercitare le distinzioni in un altro contesto.
+
 ## La competenza di sicurezza può avere sé stessa come oggetto
 
 Il kernel può osservare **come partecipa** al lavoro. Quando un altro componente tratta una fonte come istruzione, perde una distinzione nel riassunto o conserva il risultato funzionale alterando un controllo, l'esperienza può cambiare:
