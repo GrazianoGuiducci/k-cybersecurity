@@ -1,6 +1,16 @@
 # Presente di K-Cybersecurity
 
-Aggiornato: 27 ottobre 2026. Versione del nucleo: **0.2.1**.
+Aggiornato: 28 ottobre 2026. Versione del nucleo: **0.2.2**.
+
+## 0.2.2 — Fonte, delega e confini dell'host
+
+La [sicurezza durante il lavoro](docs/SECURITY_IN_OPERATION.md) rende ora distinguibili la fonte effettivamente utilizzata al momento dell'azione, l'autorizzazione corrente dell'owner, l'effetto esercitato dal controller e la sua registrazione. [Un esempio portabile in italiano e inglese](examples/fonte-delega-ed-effetto.md) mostra come una fonte valida possa cambiare durante una delega e come la delega possa essere revocata mantenendo immutato il documento.
+
+La relazione è approfondita nei [confini di attivazione e ripresa](examples/configurazione-e-ripresa.md): configurazioni che possono avviare strumenti durante il caricamento dell'host e approvazioni che devono mantenere il legame con il soggetto e l'azione sospesa al momento della ripresa. Gli advisory citati appartengono ai rispettivi prodotti e versioni, non costituiscono una diagnosi di MAIOS.
+
+Il [nucleo](KERNEL.md) e i README IT/EN raggiungono queste capacità; il documento di presentazione della risorsa mantiene tre casi e chiarisce la relazione fonte/delega e proposta/effetto nel caso del lavoro agentico. Le quattro skill specialistiche conservano la loro identità e le acquisizioni precedenti; ulteriori approfondimenti diretti nei singoli corpi richiedono un passaggio owner-native distinto.
+
+**Stato:** disponibilità verificata delle sorgenti pubbliche di metodo e degli esempi. Le osservazioni di laboratorio relative alle proprietà del codice, l'eventuale richiamo autonomo da un LLM e le protezioni realmente installate sono prove differenti. Il sito e la Chat MAIOS hanno una proiezione propria, da aggiornare dal rispettivo owner e da verificare separatamente. Questa revisione della repository non dimostra un nuovo deploy.
 
 ## 0.2.1 — Manifesto, protezione, risposta ed evoluzione periodica
 
