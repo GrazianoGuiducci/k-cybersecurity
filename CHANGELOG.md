@@ -1,5 +1,16 @@
 # Evoluzione di K-Cybersecurity
 
+## 0.2.2 — 28 ottobre 2026
+
+- Il [metodo operativo](docs/SECURITY_IN_OPERATION.md) distingue revisione della fonte e delega al momento dell'effetto, conferma dell'audit e decisione dell'agente rispetto alla protezione esercitata dal controller.
+- [Fonte e delega che cambiano](examples/fonte-delega-ed-effetto.md): esempio autonomo bilingue di validità temporale, responsabilità delle azioni e seguito.
+- [Configurazione e ripresa](examples/configurazione-e-ripresa.md): due situazioni bilingui con fonti pubbliche dei manutentori, su tool attivati dall'host e autorità delle approvazioni dopo una sospensione.
+- README IT/EN, nucleo, stato, manifest e presentazione bilingue allineati alla revisione di metodo **0.2.2**.
+- Le skill specialistiche rimangono nella loro precedente incarnazione: il metodo condiviso è raggiungibile dagli ingressi già esistenti. Un eventuale aggiornamento nativo dei corpi appartiene a un passaggio successivo.
+- Stato delle prove conservato: casi ed esercizi delimitati, **nessuna invocazione indipendente LLM attribuita al rilascio**, nessuna difesa runtime o pubblicazione del sito implicata.
+
+La licenza e la formulazione originale del manifesto sono mantenute.
+
 ## 0.2.1 — 27 October 2026
 
 - Preserve the concurrently published 0.2.0 security-in-operation guide and example.
