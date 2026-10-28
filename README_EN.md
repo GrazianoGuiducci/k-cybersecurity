@@ -34,7 +34,7 @@ carries reusable knowledge and can learn from suitable contributions.
 - [Companies and consulting](docs/COMPANIES.md) connects adoption to real work.
 - [Sources](sources/SOURCE_MAP.md) makes external resources reachable.
 
-Version **0.2.1** develops the initial LLM-first core, expressed in readable Markdown
+Version **0.2.2** develops the initial LLM-first core, expressed in readable Markdown
 and a small discovery manifest. Its detailed operating documents are currently in Italian.
 [Italian entry](README.md) · [Current direction](CURRENT.md)
 
@@ -43,6 +43,14 @@ and a small discovery manifest. Its detailed operating documents are currently i
 The kernel's current method helps an agent distinguish **information, embedded instructions, and actual authority**, trace how content changes across tools and agents, and recognize when a functional change affects existing safeguards. The same faculty can examine whether the kernel's own security knowledge is reaching the work that needs it.
 
 [Security during work (Italian guide)](docs/SECURITY_IN_OPERATION.md) · [Illustrative migration scenario (Italian)](examples/security-through-changes.md) · [Changes](CHANGELOG.md)
+
+## Source, delegation and host execution
+
+A document may remain unchanged while permission to act is revoked; the source may instead change during a delegated operation. K-Cybersecurity makes **the source accepted at the effect**, **current authorization** and **the actual host result** distinguishable. An intact audit log, an agent's proposal and the host's protection have different evidence.
+
+The same method reaches cases where **configuration starts tools before model interpretation** or a suspended action **resumes after an approval**.
+
+[Source and delegation example](examples/fonte-delega-ed-effetto.md) · [Configuration and resumed approvals](examples/configurazione-e-ripresa.md)
 
 ## Use and licensing
 
@@ -53,7 +61,7 @@ systems to improve their security. [Licensing guide](docs/LICENSING.md).
 
 ## Method and adaptable cases
 
-**0.2.1** includes actual provenance, content that changes over time,
+**0.2.2** includes actual provenance, content that changes over time,
 propagation between assistants, and control integrity through changes
 and delegation.
 
