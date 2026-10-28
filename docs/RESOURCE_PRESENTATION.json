@@ -1,7 +1,7 @@
 {
   "id": "k-cybersecurity",
   "name": "K-Cybersecurity",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "repository": "https://github.com/GrazianoGuiducci/k-cybersecurity",
   "manifesto": {
     "path": "MANIFESTO.md",
@@ -60,8 +60,8 @@
         {
           "title": "Un aggiornamento dell’agente modifica la copertura degli avvisi",
           "situation": "Un gruppo software riorganizza un servizio e delega una parte del lavoro a un altro agente. Il nuovo percorso può lasciare fuori dal monitoraggio alcune operazioni.",
-          "work": "Il kernel collega lo scopo della modifica ai controlli che devono restare operanti. Con i mezzi del progetto osserva configurazione effettiva, attività coperte e arrivo dei segnali al destinatario.",
-          "consequence": "Il gruppo comprende quali garanzie sono rimaste e dove intervenire. Il metodo di progettazione conserva la relazione tra deleghe, controlli e conseguenze anche nei successivi aggiornamenti."
+          "work": "Il kernel collega il compito ai controlli che devono continuare. Rende pertinenti la revisione della fonte al momento dell'effetto, la delega corrente e la copertura degli agenti coinvolti, usando i mezzi del progetto per comprenderle.",
+          "consequence": "Il gruppo può distinguere lavoro completato, autorizzazione effettiva e registrazione degli eventi. Una nuova osservazione modifica il metodo di aggiornamento e il recupero delle garanzie che contano."
         },
         {
           "title": "Un servizio richiede una risposta a un accesso compromesso",
@@ -74,7 +74,8 @@
       "evolution": [
         "Il kernel può seguire nuove ricerche, incidenti descritti dalle fonti e cambiamenti del proprio ambiente. Da un segnale forma conoscenza, da questa una strategia, e porta il sapere nella competenza o nel componente che deve operare diversamente. Una ricerca esterna conserva il proprio contesto quando viene applicata a un altro sistema.",
         "L’attenzione partecipa già al lavoro e alla progettazione. Un’attività periodica può darle continuità: il ricevente sceglie fonti, frequenza, persistenza e controller, conserva ciò che cambia il seguito e migliora anche il metodo dell’attività. Il nucleo include questo sapere; l’attivazione avviene nell’ambiente che lo userà.",
-        "Ogni applicazione conserva ciò che ha imparato nel proprio spazio. Gli apprendimenti generalizzabili possono migliorare il nucleo pubblico, mantenendo privati contesto, accessi e dati del ricevente."
+        "Ogni applicazione conserva ciò che ha imparato nel proprio spazio. Gli apprendimenti generalizzabili possono migliorare il nucleo pubblico, mantenendo privati contesto, accessi e dati del ricevente.",
+        "Un registro integro, una decisione dell’agente e la protezione esercitata dal controller descrivono proprietà differenti. La competenza può cambiare punto d’osservazione quando ciò rende comprensibile una relazione decisiva, compresa l’attivazione di strumenti da configurazioni e la ripresa delle approvazioni."
       ],
       "start_title": "Avviare K-Cybersecurity nella tua AI",
       "start_body": "Rendi leggibile al tuo assistente l’intera repository. Il nucleo, le competenze e le guide portano il metodo; aggiungi il sistema da comprendere, ciò che vuoi proteggere e il mandato sulle azioni.",
@@ -147,8 +148,8 @@
         {
           "title": "An agent update changes alert coverage",
           "situation": "A software team reorganizes a service and delegates part of the work to another agent. The new path may leave some operations outside monitoring.",
-          "work": "The kernel connects the purpose of the change to the controls that must remain operative. Using the project’s means, it observes actual configuration, covered activity, and whether signals reach their recipient.",
-          "consequence": "The team understands which safeguards remain and where intervention is needed. Its design method preserves the relationship between delegation, controls, and consequences in later updates."
+          "work": "The kernel relates the requested change to safeguards that must continue. It makes source revision at the effect, current delegation and monitoring coverage of delegated agents pertinent to the project, using the available means to understand them.",
+          "consequence": "The team can distinguish completed work, actual authorization and recorded events. A new observation can change the update method and the recovery of relevant safeguards."
         },
         {
           "title": "A service needs a response to compromised access",
@@ -161,7 +162,8 @@
       "evolution": [
         "The kernel can follow new research, incidents described by their sources, and changes in its environment. It forms knowledge from a signal, a strategy from that knowledge, and brings what was learned into the competence or component that must operate differently. External research retains its own context when applied to another system.",
         "Attention already participates in work and design. A recurring activity can give it continuity: the receiver selects sources, cadence, persistence, and a controller, preserves what changes the next movement, and improves the activity’s method too. The kernel includes this knowledge; activation takes place in the receiving environment.",
-        "Each application keeps its learning in its own space. Generalizable learning can improve the public kernel while the receiver’s context, access, and data remain private."
+        "Each application keeps its learning in its own space. Generalizable learning can improve the public kernel while the receiver’s context, access, and data remain private.",
+        "An intact audit log, an agent's proposal and the host's enforced protection describe different properties. The competence may change its observation point when that makes a consequential relationship intelligible, including tool activation from configuration and resumed approvals."
       ],
       "start_title": "Start K-Cybersecurity with your AI",
       "start_body": "Make the entire repository readable by your assistant. The kernel, competences, and guides carry the method; add the system to understand, what you want to protect, and the mandate for actions.",
