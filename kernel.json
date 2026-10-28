@@ -1,6 +1,6 @@
 {
   "name": "K-Cybersecurity",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "form": "llm-first-functional-kernel",
   "repository": "https://github.com/GrazianoGuiducci/k-cybersecurity",
   "entry": "BOOT.md",
@@ -29,5 +29,7 @@
     "it": "docs/GUIDA_OPERATIVA.md",
     "en": "docs/OPERATING_GUIDE.md"
   },
-  "periodic_evolution": "docs/EVOLUTION.md"
+  "periodic_evolution": "docs/EVOLUTION.md",
+  "source_and_delegation_example": "examples/fonte-delega-ed-effetto.md",
+  "configuration_and_resumption_example": "examples/configurazione-e-ripresa.md"
 }
