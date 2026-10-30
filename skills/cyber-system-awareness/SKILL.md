@@ -38,6 +38,19 @@ La gravità e l'urgenza dipendono dalle conseguenze reali. Un rischio di perdita
 immediata può chiedere una risposta rapida insieme all'acquisizione di sapere;
 un'indeterminatezza può richiedere comprensione prima dell'intervento.
 
+## Identità effettive nel percorso dell'azione
+
+Quando un riferimento attraversa resolver, collegamenti o strumenti, riconosci
+quale componente sceglie infine il bersaglio e quale mandato riguarda proprio
+quell'oggetto. Nei servizi condivisi considera anche a quale client e sessione
+appartengono richiesta, attività e risposta. Un nome valido nel suo spazio
+locale non identifica da solo il destinatario attraverso spazi condivisi.
+
+Il [metodo di bersaglio e destinatario](../../docs/SECURITY_IN_OPERATION.md) e
+[l'esempio bilingue](../../examples/bersaglio-e-destinatario.md) rendono
+raggiungibile questa osservazione. La mappa conserva le indirezioni legittime
+ed evolve con il mezzo concreto; una presenza nei file non prova un confine
+tecnico o l'isolamento effettivo fra client.
 ## Riconoscere e formare possibilità
 
 Conoscere un mezzo disponibile altrove può cambiare ciò che il sistema può fare.

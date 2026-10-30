@@ -29,6 +29,19 @@ Sono risorse e possibilità di apprendimento. Nessuna singola implementazione
 esaurisce il campo del kernel. L'acquisizione del saper fare comprende
 copertura, condizioni, effetti e modo in cui il risultato cambia la situazione.
 
+## Risoluzione del bersaglio e identità del destinatario
+
+Fonti primarie rilette il 30 ottobre 2026, con eventi del 2, 15, 25 e 28 ottobre.
+L'[esempio bilingue](../examples/bersaglio-e-destinatario.md) collega i casi al metodo:
+
+- [MCP Git: riferimento gitdir e repository effettivo](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-w766-5x43-whvw).
+- [MCP filesystem: directory padre fra controllo e operazione](https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-53mr-w429-c597).
+- [MCP HTTP: istanze condivise e recapito fra client](https://github.com/modelcontextprotocol/typescript-sdk/security/advisories/GHSA-jm63-cq47-j5jp).
+- [MCP taskStore: attività e sessione creatrice](https://github.com/modelcontextprotocol/typescript-sdk/security/advisories/GHSA-22jm-h49p-29qw).
+
+Le condizioni del maintainer appartengono ai package citati. L'applicabilità
+in un ricevente si comprende da versione, configurazione e mezzo effettivi.
+
 ## Altri kernel e nuovi apporti
 
 La formazione riusa relazioni funzionali già sviluppate nei kernel MAIOS:

@@ -1,6 +1,19 @@
 # Presente di K-Cybersecurity
 
-Aggiornato: 28 ottobre 2026. Versione del nucleo: **0.2.2**.
+Aggiornato: 30 ottobre 2026. Versione del nucleo: **0.2.3**, candidata.
+
+## 0.2.3 — Bersaglio effettivo e destinatario
+
+Il metodo condiviso distingue il riferimento iniziale dal bersaglio scelto
+alla risoluzione finale e l'identificatore locale dalla sessione destinataria.
+L'[esempio bilingue](examples/bersaglio-e-destinatario.md) conserva situazioni,
+conseguenze e fonti primarie dei manutentori. Consapevolezza di sistema e
+difesa ricevono il sapere pertinente; integrità concettuale e formazione
+conservano il metodo già adeguato e raggiungono la guida condivisa.
+
+**Stato:** revisione sorgente candidata, con presentazione e guide IT/EN
+allineate. Non attesta installazione di difese, nuova capacità LLM o deploy.
+Sito e Chat mantengono le proprie revisioni e il proprio passaggio di rilascio.
 
 ## 0.2.2 — Fonte, delega e confini dell'host
 

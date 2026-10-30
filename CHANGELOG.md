@@ -1,5 +1,13 @@
 # Evoluzione di K-Cybersecurity
 
+## 0.2.3 — 30 ottobre 2026, candidata
+
+- Il metodo segue bersaglio realmente risolto e destinatario effettivo delle risposte nei servizi condivisi.
+- Nuovo [esempio bilingue](examples/bersaglio-e-destinatario.md), con fonti primarie e portata illustrativa.
+- Consapevolezza di sistema e difesa approfondite nei propri corpi; le altre facoltà conservano il metodo adeguato.
+- README, nucleo, guide IT/EN, manifest e presentazione allineati alla candidata; manifesto e licenza invariati.
+- La revisione non installa controlli o certifica comportamento del modello; sito e Chat richiedono la propria ricezione.
+
 ## 0.2.2 — 28 ottobre 2026
 
 - Il [metodo operativo](docs/SECURITY_IN_OPERATION.md) distingue revisione della fonte e delega al momento dell'effetto, conferma dell'audit e decisione dell'agente rispetto alla protezione esercitata dal controller.

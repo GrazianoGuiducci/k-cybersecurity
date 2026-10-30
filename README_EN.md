@@ -34,7 +34,7 @@ carries reusable knowledge and can learn from suitable contributions.
 - [Companies and consulting](docs/COMPANIES.md) connects adoption to real work.
 - [Sources](sources/SOURCE_MAP.md) makes external resources reachable.
 
-Version **0.2.2** develops the initial LLM-first core, expressed in readable Markdown
+Version **0.2.3** develops the initial LLM-first core, expressed in readable Markdown
 and a small discovery manifest. Its detailed operating documents are currently in Italian.
 [Italian entry](README.md) · [Current direction](CURRENT.md)
 
@@ -61,9 +61,19 @@ systems to improve their security. [Licensing guide](docs/LICENSING.md).
 
 ## Method and adaptable cases
 
-**0.2.2** includes actual provenance, content that changes over time,
+**0.2.3** includes actual provenance, content that changes over time,
 propagation between assistants, and control integrity through changes
 and delegation.
 
 [Operating guide and three illustrative cases](docs/OPERATING_GUIDE.md) ·
 [Periodic security evolution](docs/EVOLUTION.md#periodic-security-evolution--english).
+
+## Resolved target and recipient
+
+The kernel also follows the object actually reached by a tool and the intended
+recipient of results. An authorized path can resolve to another resource; an
+authentic response can belong to a different session. The integration competence
+keeps the mandate connected to the target and delivery, while preserving
+legitimate links and cooperation.
+
+[Bilingual target and recipient example](examples/bersaglio-e-destinatario.md)

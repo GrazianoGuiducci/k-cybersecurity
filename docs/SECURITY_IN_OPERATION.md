@@ -64,6 +64,41 @@ Queste relazioni possono essere pertinenti anche con una proposta dell'agente co
 
 [Due situazioni illustrate](../examples/configurazione-e-ripresa.md) mostrano come la sicurezza possa partecipare **prima della lettura del modello** e **al momento della ripresa di un'azione sospesa**. Sono derivate da osservazioni pubbliche di manutentori su prodotti specifici, senza attribuire un difetto a MAIOS.
 
+## Il bersaglio che il componente raggiunge realmente
+
+Un riferimento autorizzato può attraversare più interpretazioni prima dell'azione.
+Una cartella ammessa dal controllo può essere risolta da Git verso un altro
+repository; un collegamento può cambiare fra la verifica e la scrittura.
+Il componente che produce l'effetto deve poter riconoscere l'oggetto effettivo
+al quale si applica il mandato, oltre al testo del riferimento iniziale.
+
+La competenza segue il responsabile della risoluzione finale e i mezzi che
+mantengono il rapporto fra identità, autorizzazione e operazione. Quando il
+bersaglio può cambiare nel tempo, anche il momento della risoluzione partecipa
+alla scelta del controllo. Indirezioni lecite, come i worktree Git collegati,
+restano utilizzabili secondo la loro identità autorizzata: la forma del
+collegamento non determina da sola la legittimità.
+
+## Il destinatario nel lavoro fra più client
+
+Un identificatore di richiesta o di attività può essere valido nella propria
+sessione e ricomparire in un'altra. Se un servizio condivide stato o trasporti
+fra client, il recapito deve conservare il rapporto fra client, sessione,
+richiesta e destinatario. Un contenuto autentico può essere consegnato alla
+conversazione sbagliata anche senza istruzioni ostili nel testo.
+
+Questa relazione rende pertinente chi progetta il routing e la vita delle
+istanze o delle memorie condivise. I mezzi dipendono dal servizio: separazione
+per richiesta o sessione, chiavi qualificate e interoperabilità autorizzata
+hanno conseguenze da comprendere insieme. Una patch può richiedere anche
+un cambiamento nella costruzione delle istanze. La verifica riguarda il
+recapito ottenuto e la continuità del lavoro legittimo fra i client interessati.
+
+[L'esempio di bersaglio e destinatario](../examples/bersaglio-e-destinatario.md)
+collega le due distinzioni a situazioni autonome IT/EN e alle fonti primarie.
+Le osservazioni dei manutentori conservano prodotto, versione e condizioni;
+il metodo diventa sapere del ricevente, mentre la sua applicazione tecnica
+richiede il componente concreto.
 ## La competenza di sicurezza può avere sé stessa come oggetto
 
 Il kernel può osservare **come partecipa** al lavoro. Quando un altro componente tratta una fonte come istruzione, perde una distinzione nel riassunto o conserva il risultato funzionale alterando un controllo, l'esperienza può cambiare:

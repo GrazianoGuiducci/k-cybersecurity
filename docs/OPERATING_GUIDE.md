@@ -56,6 +56,17 @@ The kernel composes the competences needed to understand the path, contain the e
 
 The response keeps completed effects, available evidence, and responsible people recognizable. The experience can form better protections and further capabilities for reaction and cooperation.
 
+## Resources reached and recipients of results
+
+A link can lead to a different object from the one authorized; a correct
+response can be delivered to the wrong conversation. K-Cybersecurity makes
+both relationships understandable and involves the competence responsible
+for the tool or service. Its method preserves legitimate access and follows
+the effect obtained in the actual system.
+
+[The bilingual example](../examples/bersaglio-e-destinatario.md) connects
+target resolution, client, session, and ownership of the result.
+
 ## A kernel that evolves its own security
 
 The kernel can follow new research, incidents described by their sources, and changes in its environment. It forms knowledge from a signal, a strategy from that knowledge, and brings what was learned into the competence or component that must operate differently. External research retains its own context when applied to another system.

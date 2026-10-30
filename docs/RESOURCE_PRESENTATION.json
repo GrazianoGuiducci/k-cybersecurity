@@ -1,7 +1,7 @@
 {
   "id": "k-cybersecurity",
   "name": "K-Cybersecurity",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "repository": "https://github.com/GrazianoGuiducci/k-cybersecurity",
   "manifesto": {
     "path": "MANIFESTO.md",
@@ -26,7 +26,8 @@
       "overview_title": "La sicurezza riguarda il sistema e il modo in cui comprende",
       "overview": [
         "Un assistente legge documenti, ricorda decisioni, usa strumenti e coopera con persone o altri agenti. Ogni passaggio può cambiare ciò che sa e ciò che può fare. K-Cybersecurity mantiene l’attenzione su questa relazione: che cosa accade, che cosa vogliamo proteggere e quali conseguenze produce una risposta.",
-        "La sicurezza tecnica e fisica comprende persone, dispositivi, accessi, servizi e dati. Quella cognitiva e semantica comprende come fonti, interpretazioni, memoria e istruzioni diventano conoscenza e azione. Una contaminazione può arrivare dall’esterno o nascere da una nostra trasformazione che perde il significato originale."
+        "La sicurezza tecnica e fisica comprende persone, dispositivi, accessi, servizi e dati. Quella cognitiva e semantica comprende come fonti, interpretazioni, memoria e istruzioni diventano conoscenza e azione. Una contaminazione può arrivare dall’esterno o nascere da una nostra trasformazione che perde il significato originale.",
+        "Il kernel distingue la risorsa autorizzata da quella realmente raggiunta e riconosce a chi appartengono i risultati quando il servizio lavora per più persone o progetti. Anche una risposta autentica può essere consegnata alla conversazione sbagliata."
       ],
       "manifesto_title": "Il manifesto: riconoscere, reagire e formare nuove possibilità",
       "manifesto_body": [
@@ -60,7 +61,7 @@
         {
           "title": "Un aggiornamento dell’agente modifica la copertura degli avvisi",
           "situation": "Un gruppo software riorganizza un servizio e delega una parte del lavoro a un altro agente. Il nuovo percorso può lasciare fuori dal monitoraggio alcune operazioni.",
-          "work": "Il kernel collega il compito ai controlli che devono continuare. Rende pertinenti la revisione della fonte al momento dell'effetto, la delega corrente e la copertura degli agenti coinvolti, usando i mezzi del progetto per comprenderle.",
+          "work": "Il kernel collega il compito ai controlli che devono continuare. Rende pertinenti la revisione della fonte al momento dell'effetto, la delega corrente e la copertura degli agenti coinvolti, usando i mezzi del progetto per comprenderle. Quando strumenti o servizi condivisi risolvono riferimenti e recapitano risultati, riconosce anche il bersaglio effettivo e il legame fra client, sessione e risposta.",
           "consequence": "Il gruppo può distinguere lavoro completato, autorizzazione effettiva e registrazione degli eventi. Una nuova osservazione modifica il metodo di aggiornamento e il recupero delle garanzie che contano."
         },
         {
@@ -113,7 +114,8 @@
       "overview_title": "Security concerns the system and how it understands",
       "overview": [
         "An assistant reads documents, remembers decisions, uses tools, and cooperates with people or other agents. Each passage can change what it knows and what it can do. K-Cybersecurity attends to that relationship: what is happening, what we want to protect, and the consequences of a response.",
-        "Technical and physical security concern people, devices, access, services, and data. Cognitive and semantic security concern how sources, interpretations, memory, and instructions become knowledge and action. Contamination can enter from outside or arise from our own transformation that loses the original meaning."
+        "Technical and physical security concern people, devices, access, services, and data. Cognitive and semantic security concern how sources, interpretations, memory, and instructions become knowledge and action. Contamination can enter from outside or arise from our own transformation that loses the original meaning.",
+        "The kernel distinguishes the authorized resource from the one actually reached and recognizes who owns results when a service works for several people or projects. Even an authentic response can be delivered to the wrong conversation."
       ],
       "manifesto_title": "The manifesto: recognize, respond, and form new possibilities",
       "manifesto_body": [
@@ -148,7 +150,7 @@
         {
           "title": "An agent update changes alert coverage",
           "situation": "A software team reorganizes a service and delegates part of the work to another agent. The new path may leave some operations outside monitoring.",
-          "work": "The kernel relates the requested change to safeguards that must continue. It makes source revision at the effect, current delegation and monitoring coverage of delegated agents pertinent to the project, using the available means to understand them.",
+          "work": "The kernel relates the requested change to safeguards that must continue. It makes source revision at the effect, current delegation and monitoring coverage of delegated agents pertinent to the project, using the available means to understand them. When tools or shared services resolve references and deliver results, it also recognizes the actual target and the link between client, session, and response.",
           "consequence": "The team can distinguish completed work, actual authorization and recorded events. A new observation can change the update method and the recovery of relevant safeguards."
         },
         {

@@ -56,6 +56,16 @@ La sicurezza partecipa anche quando un host **attiva strumenti dal caricamento d
 
 [Esempio: fonte e delega](examples/fonte-delega-ed-effetto.md) · [Esempio: configurazione e ripresa](examples/configurazione-e-ripresa.md)
 
+## Bersaglio effettivo e destinatario
+
+Il kernel segue anche l'oggetto realmente raggiunto da uno strumento e il
+destinatario dei risultati. Un percorso autorizzato può essere risolto verso
+un'altra risorsa; una risposta autentica può appartenere a un'altra sessione.
+La competenza dell'integrazione mantiene il rapporto con il mandato e il
+recapito, preservando collegamenti e cooperazioni legittimi.
+
+[Esempio bilingue: bersaglio e destinatario](examples/bersaglio-e-destinatario.md)
+
 ## Per aziende e organizzazioni
 
 Il kernel può entrare nei progetti AI, nello sviluppo software, nelle attività
@@ -69,7 +79,7 @@ l'istanza del destinatario conserva contesto e apprendimento locale.
 
 ## Il nucleo disponibile
 
-La versione **0.2.2** contiene il nucleo semantico, il manifesto,
+La versione **0.2.3** contiene il nucleo semantico, il manifesto,
 quattro corpi di competenza e un ingresso utilizzabile come skill. I file
 portano logiche e conoscenza attraverso cui il ricevente può organizzarsi.
 Strumenti di analisi, sistemi di controllo e processi esecutivi si compongono
@@ -87,7 +97,7 @@ serve a renderli più sicuri. [Licenza](LICENSE) · [Come si applica](docs/LICEN
 
 ## Metodo e casi da adattare
 
-La **0.2.2** porta il sapere sulla provenienza effettiva, sui contenuti che
+La **0.2.3** porta il sapere sulla provenienza effettiva, sui contenuti che
 cambiano nel tempo, sulla propagazione fra assistenti e sull’integrità dei
 controlli durante modifiche e deleghe.
 

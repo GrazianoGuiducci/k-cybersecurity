@@ -50,6 +50,24 @@ osservazione capace di dissentire può correggere la conclusione.
 Questo sapere agisce quando la trasformazione coinvolge quella garanzia.
 Ragioni, fonti e conseguenza tornano nel metodo che produce il cambiamento.
 
+## Legare la protezione all'oggetto e al destinatario
+
+Quando il mezzo risolve un riferimento prima dell'azione, collega il controllo
+al bersaglio effettivo e al mandato. La stabilità di quel rapporto può richiedere
+mezzi specifici se l'oggetto cambia fra verifica ed effetto. Il responsabile
+dell'integrazione conserva anche le forme lecite di accesso, come un worktree
+collegato autorizzato.
+
+Quando routing o stato sono condivisi fra client, segui la proprietà di
+richieste e attività fino al recapito. Identificatore locale, sessione e client
+partecipano alla costruzione delle istanze e alle regole del servizio. La
+protezione si osserva nei destinatari raggiunti e nel lavoro legittimo che
+continua; un contenuto autentico e una decisione corretta del modello non
+provano da soli l'isolamento del server.
+
+Il [caso di bersaglio e destinatario](../../examples/bersaglio-e-destinatario.md)
+porta situazioni adattabili e fonti dei manutentori. Le correzioni tecniche
+seguono package, versione e topologia identificati nel sistema reale.
 ## Difesa attiva
 
 Contenimento, isolamento, revoca di accessi, protezione dei dati, interruzione

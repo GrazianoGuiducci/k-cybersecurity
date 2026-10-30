@@ -77,6 +77,19 @@ L'host può attivare strumenti dal caricamento di configurazioni prima dell'inte
 
 La [guida condivisa](docs/SECURITY_IN_OPERATION.md) e gli [esempi di fonte/delega](examples/fonte-delega-ed-effetto.md) e [configurazione/ripresa](examples/configurazione-e-ripresa.md) rendono il saper fare raggiungibile. Il kernel pubblico insegna questa relazione, lasciando alle incarnazioni le prove dei propri strumenti e controlli.
 
+### Bersaglio effettivo e destinatario
+
+Il riferimento riconosciuto all'ingresso e l'oggetto raggiunto dal componente
+che agisce possono differire. La sicurezza mantiene il mandato collegato al
+bersaglio realmente risolto nel momento dell'effetto. Nei servizi condivisi,
+il recapito conserva anche il legame fra client, sessione, richiesta e
+destinatario: un contenuto autentico può appartenere a un'altra conversazione.
+La competenza del mezzo rende praticabile questa distinzione rispettando
+alias leciti e forme autorizzate di cooperazione.
+
+[Metodo condiviso](docs/SECURITY_IN_OPERATION.md) ed
+[esempio bilingue](examples/bersaglio-e-destinatario.md) raggiungono il fare
+pertinente al ricevente e la portata delle fonti che lo hanno informato.
 ## Difesa attiva e nuove risposte
 
 Il kernel può riconoscere una perturbazione, capire il percorso e le risorse

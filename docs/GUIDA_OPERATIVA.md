@@ -56,6 +56,17 @@ Il kernel compone le competenze necessarie per comprendere il percorso, contener
 
 La risposta mantiene riconoscibili effetti compiuti, prove disponibili e persone responsabili. L’esperienza può formare migliori protezioni e ulteriori capacità di reazione e cooperazione.
 
+## Risorse raggiunte e destinatari dei risultati
+
+Un collegamento può condurre a un oggetto diverso da quello autorizzato;
+una risposta corretta può essere recapitata alla conversazione sbagliata.
+K-Cybersecurity rende comprensibili entrambe le relazioni e coinvolge la
+competenza che controlla lo strumento o il servizio. Il metodo preserva
+l'accesso legittimo e segue l'effetto ottenuto nel sistema concreto.
+
+[L'esempio bilingue](../examples/bersaglio-e-destinatario.md) accompagna
+risoluzione del bersaglio, client, sessione e proprietà del risultato.
+
 ## Un kernel che fa evolvere la propria sicurezza
 
 Il kernel può seguire nuove ricerche, incidenti descritti dalle fonti e cambiamenti del proprio ambiente. Da un segnale forma conoscenza, da questa una strategia, e porta il sapere nella competenza o nel componente che deve operare diversamente. Una ricerca esterna conserva il proprio contesto quando viene applicata a un altro sistema.

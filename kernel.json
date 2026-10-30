@@ -1,6 +1,6 @@
 {
   "name": "K-Cybersecurity",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "form": "llm-first-functional-kernel",
   "repository": "https://github.com/GrazianoGuiducci/k-cybersecurity",
   "entry": "BOOT.md",
@@ -31,5 +31,6 @@
   },
   "periodic_evolution": "docs/EVOLUTION.md",
   "source_and_delegation_example": "examples/fonte-delega-ed-effetto.md",
-  "configuration_and_resumption_example": "examples/configurazione-e-ripresa.md"
+  "configuration_and_resumption_example": "examples/configurazione-e-ripresa.md",
+  "resolved_target_and_recipient_example": "examples/bersaglio-e-destinatario.md"
 }
