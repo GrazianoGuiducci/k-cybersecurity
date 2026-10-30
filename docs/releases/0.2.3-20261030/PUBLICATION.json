@@ -1,0 +1,38 @@
+{
+  "schema": "maios.source-publication-receipt.v1",
+  "at": "2026-10-30T09:51:40.998777+00:00",
+  "authority": "Direct operator approval of this exact main promotion; site publication also approved; Chat Gate C separate.",
+  "promotion": {
+    "repository": "k-cybersecurity",
+    "previous_revision": "c3674333a95508a9ec54ac43d50f16868303eee5",
+    "main_revision": "52a46f700df7597db9b0066d30abebd5cb2267ce",
+    "at": "2026-10-30T09:48:43.879576+00:00",
+    "fast_forward": true,
+    "force": false
+  },
+  "receipt_branch_only": true,
+  "published_main_kept_at_approved_revision": "52a46f700df7597db9b0066d30abebd5cb2267ce",
+  "tests_reused_from_exact_candidate": true,
+  "new_model_calls": 0,
+  "version": "0.2.3",
+  "source_readback": {
+    "repository": "k-cybersecurity",
+    "main_revision": "52a46f700df7597db9b0066d30abebd5cb2267ce",
+    "files": [
+      {
+        "path": "kernel.json",
+        "git_blob": "91a8aa75c6cc36c596a7ff94fceaba950c266890",
+        "sha256": "3ea020ca6e37e05bdeaebc4a03443231d02d212c0cc59057bf9453b0edb372e6"
+      },
+      {
+        "path": "docs/RESOURCE_PRESENTATION.json",
+        "git_blob": "03806d0a23e0911a8122102ee20c231124bd114b",
+        "sha256": "1f27ad856686d54a991c55fb8e2342854389e9d8c1abd2445a4034cce9ef2211"
+      }
+    ],
+    "version": "0.2.3",
+    "manifest_and_presentation_verified": true
+  },
+  "license_and_manifesto_unchanged": true,
+  "scope": "Portable method; no installed defense or LLM assimilation claim."
+}
