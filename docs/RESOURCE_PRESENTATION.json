@@ -1,7 +1,7 @@
 {
   "id": "k-cybersecurity",
   "name": "K-Cybersecurity",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "repository": "https://github.com/GrazianoGuiducci/k-cybersecurity",
   "manifesto": {
     "path": "MANIFESTO.md",
@@ -21,13 +21,15 @@
       "use_examples": [
         "Un assistente distingue le informazioni di un documento dalle istruzioni che quel documento cerca di imporgli.",
         "Un gruppo aggiorna un agente conservando il monitoraggio e il percorso degli avvisi.",
-        "Un servizio compromesso richiede contenimento, recupero e continuità delle prove."
+        "Un servizio compromesso richiede contenimento, recupero e continuità delle prove.",
+        "Un gruppo distingue il pacchetto installato dagli effetti rimasti dopo la sua rimozione."
       ],
       "overview_title": "La sicurezza riguarda il sistema e il modo in cui comprende",
       "overview": [
         "Un assistente legge documenti, ricorda decisioni, usa strumenti e coopera con persone o altri agenti. Ogni passaggio può cambiare ciò che sa e ciò che può fare. K-Cybersecurity mantiene l’attenzione su questa relazione: che cosa accade, che cosa vogliamo proteggere e quali conseguenze produce una risposta.",
         "La sicurezza tecnica e fisica comprende persone, dispositivi, accessi, servizi e dati. Quella cognitiva e semantica comprende come fonti, interpretazioni, memoria e istruzioni diventano conoscenza e azione. Una contaminazione può arrivare dall’esterno o nascere da una nostra trasformazione che perde il significato originale.",
-        "Il kernel distingue la risorsa autorizzata da quella realmente raggiunta e riconosce a chi appartengono i risultati quando il servizio lavora per più persone o progetti. Anche una risposta autentica può essere consegnata alla conversazione sbagliata."
+        "Il kernel distingue la risorsa autorizzata da quella realmente raggiunta e riconosce a chi appartengono i risultati quando il servizio lavora per più persone o progetti. Anche una risposta autentica può essere consegnata alla conversazione sbagliata.",
+        "Il nome e la versione di uno strumento non identificano da soli il pacchetto realmente caricato. Se il componente produce modifiche fuori dal proprio spazio, rimuoverlo può lasciare effetti da comprendere e recuperare."
       ],
       "manifesto_title": "Il manifesto: riconoscere, reagire e formare nuove possibilità",
       "manifesto_body": [
@@ -49,7 +51,7 @@
           "body": "Un contenuto che si dichiara interno può simulare autorità. Una sintesi nostra può cambiare un intento. Il kernel segue origine, trasformazioni e conseguenze; conoscenza nuova e dissenso possono correggere il metodo. Protezione e risposta si richiamano secondo ciò che il lavoro rende comprensibile."
         }
       ],
-      "cases_title": "Tre situazioni in cui usare K-Cybersecurity",
+      "cases_title": "Quattro situazioni in cui usare K-Cybersecurity",
       "cases_note": "Casi illustrativi: mostrano il metodo e si adattano alle fonti, ai ruoli e agli strumenti del tuo ambiente.",
       "cases": [
         {
@@ -69,6 +71,12 @@
           "situation": "Un’organizzazione rileva un accesso anomalo a un servizio. Deve proteggere dati e continuità e ricostruire ciò che è successo.",
           "work": "Il kernel compone le competenze necessarie per comprendere il percorso, contenere l’evento, revocare accessi e recuperare il servizio. Conserva tempo, sorgenti e trasformazioni delle tracce per il seguito pertinente.",
           "consequence": "La risposta mantiene riconoscibili effetti compiuti, prove disponibili e persone responsabili. L’esperienza può formare migliori protezioni e ulteriori capacità di reazione e cooperazione."
+        },
+        {
+          "title": "Un’estensione rimossa lascia modifiche da verificare",
+          "situation": "Un’associazione usa un’estensione per preparare il programma delle attività. Un avviso riguarda copie distribuite da uno specifico marketplace; il nome e la versione, da soli, non dicono quale pacchetto sia stato caricato sui suoi computer.",
+          "work": "Il kernel collega l’avviso al canale e al periodo di installazione effettivi, componendo chi conosce gli strumenti e chi gestisce i dispositivi. Se l’esposizione è confermata, conserva le evidenze e segue anche le modifiche prodotte fuori dall’estensione: accessi, processi e avvii. La rimozione del componente e il recupero di questi effetti sono interventi distinti, da affidare ai rispettivi responsabili.",
+          "consequence": "L’associazione può distinguere un semplice segnale, un pacchetto effettivamente eseguito e una correzione verificata. Un collegamento remoto fallito non esclude altri effetti; un avviso riferito a terzi non dimostra una compromissione locale. Il caso è illustrativo e non descrive un intervento compiuto."
         }
       ],
       "evolution_title": "Un kernel che fa evolvere la propria sicurezza",
@@ -109,13 +117,15 @@
       "use_examples": [
         "An assistant distinguishes a document’s information from instructions the document tries to impose.",
         "A team updates an agent while preserving monitoring and the alert path.",
-        "A compromised service needs containment, recovery, and continuity of evidence."
+        "A compromised service needs containment, recovery, and continuity of evidence.",
+        "A team distinguishes an installed package from effects left after its removal."
       ],
       "overview_title": "Security concerns the system and how it understands",
       "overview": [
         "An assistant reads documents, remembers decisions, uses tools, and cooperates with people or other agents. Each passage can change what it knows and what it can do. K-Cybersecurity attends to that relationship: what is happening, what we want to protect, and the consequences of a response.",
         "Technical and physical security concern people, devices, access, services, and data. Cognitive and semantic security concern how sources, interpretations, memory, and instructions become knowledge and action. Contamination can enter from outside or arise from our own transformation that loses the original meaning.",
-        "The kernel distinguishes the authorized resource from the one actually reached and recognizes who owns results when a service works for several people or projects. Even an authentic response can be delivered to the wrong conversation."
+        "The kernel distinguishes the authorized resource from the one actually reached and recognizes who owns results when a service works for several people or projects. Even an authentic response can be delivered to the wrong conversation.",
+        "A tool’s name and version alone do not identify the package actually loaded. If the component changes things outside its own space, removing it can leave effects that need to be understood and recovered."
       ],
       "manifesto_title": "The manifesto: recognize, respond, and form new possibilities",
       "manifesto_body": [
@@ -138,7 +148,7 @@
           "body": "Content claiming to be internal may simulate authority. Our own summary may alter an intent. The kernel follows origin, transformations, and consequences; new knowledge and disagreement can correct the method. Protection and response inform one another according to what the work makes understandable."
         }
       ],
-      "cases_title": "Three situations for using K-Cybersecurity",
+      "cases_title": "Four situations for using K-Cybersecurity",
       "cases_note": "Illustrative cases: they explain the method and adapt to the sources, roles, and tools in your environment.",
       "cases": [
         {
@@ -158,6 +168,12 @@
           "situation": "An organization detects anomalous access to a service. It needs to protect data and continuity and reconstruct what happened.",
           "work": "The kernel composes the competences needed to understand the path, contain the event, revoke access, and recover the service. It preserves the time, sources, and transformations of evidence for the relevant follow-up.",
           "consequence": "The response keeps completed effects, available evidence, and responsible people recognizable. The experience can form better protections and further capabilities for reaction and cooperation."
+        },
+        {
+          "title": "Removing an extension leaves changes to verify",
+          "situation": "An association uses an extension to prepare its activity programme. An advisory concerns copies distributed through a particular marketplace; the name and version alone do not establish which package its computers loaded.",
+          "work": "The kernel relates the advisory to the actual installation channel and period, involving the people responsible for the tools and devices. If exposure is confirmed, it preserves evidence and follows changes outside the extension too: access entries, processes and startup mechanisms. Removing the component and recovering those effects are separate interventions owned by the appropriate people.",
+          "consequence": "The association can distinguish a signal, a package actually executed and a verified correction. A failed remote connection does not exclude other effects; a third-party advisory does not establish local compromise. This illustrative case does not describe a performed intervention."
         }
       ],
       "evolution_title": "A kernel that evolves its own security",

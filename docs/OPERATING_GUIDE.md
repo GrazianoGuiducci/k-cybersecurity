@@ -28,7 +28,7 @@ Follow an anomaly, interrupt a hostile path, isolate a resource, revoke access, 
 
 Content claiming to be internal may simulate authority. Our own summary may alter an intent. The kernel follows origin, transformations, and consequences; new knowledge and disagreement can correct the method. Protection and response inform one another according to what the work makes understandable.
 
-## Three situations for using K-Cybersecurity
+## Four situations for using K-Cybersecurity
 
 Illustrative cases: they explain the method and adapt to the sources, roles, and tools in your environment.
 
@@ -55,6 +55,14 @@ An organization detects anomalous access to a service. It needs to protect data 
 The kernel composes the competences needed to understand the path, contain the event, revoke access, and recover the service. It preserves the time, sources, and transformations of evidence for the relevant follow-up.
 
 The response keeps completed effects, available evidence, and responsible people recognizable. The experience can form better protections and further capabilities for reaction and cooperation.
+
+### Removing an extension leaves changes to verify
+
+An association uses an extension to prepare its activity programme. An advisory concerns copies distributed through a particular marketplace; the name and version alone do not establish which package its computers loaded.
+
+The kernel relates the advisory to the actual installation channel and period, involving the people responsible for the tools and devices. If exposure is confirmed, it preserves evidence and follows changes outside the extension too: access entries, processes and startup mechanisms. Removing the component and recovering those effects are separate interventions owned by the appropriate people.
+
+The association can distinguish a signal, a package actually executed and a verified correction. A failed remote connection does not exclude other effects; a third-party advisory does not establish local compromise. This illustrative case does not describe a performed intervention.
 
 ## Resources reached and recipients of results
 
@@ -86,3 +94,7 @@ Make the entire repository readable by your assistant. The kernel, competences, 
 You can begin with a professional practice, software team, institution, or personal project. Sources, people, tools, and responsibilities change; the relationship between what the system understands, what it protects, and the effects of its actions remains. The receiver organizes its own operation and learning continuity.
 
 [Read the original manifesto](../MANIFESTO.md) · [Adopt it in your environment](INCARNATION.md) · [Terms of use](../LICENSE)
+
+## Loaded package and recovery of its effects
+
+Reach the distribution channel and period of the package actually executed. If effects outside the component are confirmed, removal and recovery need distinct observations. The [example and sources](../examples/artefatto-ed-effetti.md) explain the method and its scope.

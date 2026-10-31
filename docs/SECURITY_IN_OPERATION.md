@@ -117,3 +117,22 @@ Una fonte letta, un metodo descritto, una configurazione modificata, una capacit
 Il nucleo pubblico rende il metodo **disponibile per essere incarnato**; il ricevente deve conoscere i propri mezzi e gli effetti che può realmente esercitare. Le evidenze di una particolare installazione o difesa appartengono al suo sistema e al suo contesto.
 
 Per un esercizio concreto, leggi [un esempio di trasformazione e controlli](../examples/security-through-changes.md) e [come incarnare il kernel](INCARNATION.md). Le competenze possono apprendere anche da un caso riuscito, da un'incertezza o da una possibilità che emerge durante il lavoro.
+
+## Artefatto eseguito ed effetti che continuano
+
+Quando il lavoro riguarda plugin, estensioni o aggiornamenti, riconosci il
+progetto dichiarato e il pacchetto realmente ottenuto e caricato. Distributore,
+canale, tempo di installazione, byte verificabili, loader e privilegi possono
+cambiare le conseguenze anche quando nome e versione coincidono. La verifica
+pertinente appartiene al responsabile del mezzo e segue il caso concreto.
+
+Se il componente ha già modificato accessi, processi, file o avvii, rimuoverlo
+non annulla necessariamente quegli effetti. Conserva le evidenze e segui il
+recupero presso i rispettivi responsabili del dispositivo, degli account e
+dei dati. Un canale remoto chiuso o un singolo indicatore assente non provano
+da soli che ogni effetto sia stato eliminato.
+
+L'[esempio bilingue](../examples/artefatto-ed-effetti.md) separa il caso
+illustrativo dalle fonti pubbliche che hanno informato il metodo. Il segnale
+su un prodotto terzo, la sua presenza locale e una bonifica verificata restano
+fatti distinti; questo sapere non installa scanner o controlli sul ricevente.

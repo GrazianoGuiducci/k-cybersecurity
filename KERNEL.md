@@ -134,3 +134,11 @@ conservano ciascuno il proprio significato.
 ## Sicurezza nella progettazione e nell’evoluzione
 
 La facoltà discriminante partecipa quando si formano competenze, memorie e deleghe: riconosce provenienza, contenuti mutevoli e propagazione delle istruzioni. La difesa comprende anche l’integrità dei controlli durante una trasformazione del sistema. Il [metodo dell’evoluzione periodica](docs/EVOLUTION.md) fa continuare ricerca, strategie e ritorno del sapere nelle capacità pertinenti.
+
+### Identità della distribuzione e durata degli effetti
+
+La distribuzione effettivamente caricata ha un’identità distinta dal progetto
+che dichiara di rappresentare. Gli effetti prodotti possono continuare oltre
+la rimozione del componente. Consapevolezza e difesa seguono queste relazioni
+nei rispettivi owner, con il [metodo condiviso](docs/SECURITY_IN_OPERATION.md)
+e l’[esempio bilingue](examples/artefatto-ed-effetti.md).

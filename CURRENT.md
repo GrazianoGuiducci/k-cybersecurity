@@ -1,5 +1,22 @@
 # Presente di K-Cybersecurity
 
+Aggiornato: 31 ottobre 2026. Versione del nucleo: **0.2.4**.
+
+## 0.2.4 — Pacchetto eseguito ed effetti persistenti
+
+La nuova edizione sviluppa l’identità del pacchetto distribuito per canale e
+tempo e la durata delle modifiche prodotte oltre la rimozione del componente.
+Metodo, consapevolezza, difesa e guide IT/EN ricevono il sapere; un quarto
+caso illustrativo rende il lavoro adattabile a organizzazioni diverse.
+L’[esempio con fonti](examples/artefatto-ed-effetti.md) distingue incidente
+di terzi, esposizione accertata e recupero verificato. Nessun host MAIOS
+ispezionato o bonificato da questa edizione. Manifesto e licenza conservati.
+Sito e Chat hanno proiezioni e attivazioni proprie.
+
+## Edizioni precedenti — fonti e stati alle rispettive date
+
+# Presente di K-Cybersecurity
+
 Aggiornato: 30 ottobre 2026. Versione del nucleo: **0.2.3**, candidata.
 
 ## 0.2.3 — Bersaglio effettivo e destinatario

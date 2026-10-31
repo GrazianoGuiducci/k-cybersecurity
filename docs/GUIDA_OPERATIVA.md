@@ -28,7 +28,7 @@ Seguire un’anomalia, interrompere un percorso ostile, isolare una risorsa, rev
 
 Un contenuto che si dichiara interno può simulare autorità. Una sintesi nostra può cambiare un intento. Il kernel segue origine, trasformazioni e conseguenze; conoscenza nuova e dissenso possono correggere il metodo. Protezione e risposta si richiamano secondo ciò che il lavoro rende comprensibile.
 
-## Tre situazioni in cui usare K-Cybersecurity
+## Quattro situazioni in cui usare K-Cybersecurity
 
 Casi illustrativi: mostrano il metodo e si adattano alle fonti, ai ruoli e agli strumenti del tuo ambiente.
 
@@ -55,6 +55,14 @@ Un’organizzazione rileva un accesso anomalo a un servizio. Deve proteggere dat
 Il kernel compone le competenze necessarie per comprendere il percorso, contenere l’evento, revocare accessi e recuperare il servizio. Conserva tempo, sorgenti e trasformazioni delle tracce per il seguito pertinente.
 
 La risposta mantiene riconoscibili effetti compiuti, prove disponibili e persone responsabili. L’esperienza può formare migliori protezioni e ulteriori capacità di reazione e cooperazione.
+
+### Un’estensione rimossa lascia modifiche da verificare
+
+Un’associazione usa un’estensione per preparare il programma delle attività. Un avviso riguarda copie distribuite da uno specifico marketplace; il nome e la versione, da soli, non dicono quale pacchetto sia stato caricato sui suoi computer.
+
+Il kernel collega l’avviso al canale e al periodo di installazione effettivi, componendo chi conosce gli strumenti e chi gestisce i dispositivi. Se l’esposizione è confermata, conserva le evidenze e segue anche le modifiche prodotte fuori dall’estensione: accessi, processi e avvii. La rimozione del componente e il recupero di questi effetti sono interventi distinti, da affidare ai rispettivi responsabili.
+
+L’associazione può distinguere un semplice segnale, un pacchetto effettivamente eseguito e una correzione verificata. Un collegamento remoto fallito non esclude altri effetti; un avviso riferito a terzi non dimostra una compromissione locale. Il caso è illustrativo e non descrive un intervento compiuto.
 
 ## Risorse raggiunte e destinatari dei risultati
 
@@ -86,3 +94,7 @@ Rendi leggibile al tuo assistente l’intera repository. Il nucleo, le competenz
 Puoi partire da uno studio professionale, un gruppo software, un ente o un progetto personale. Cambiano fonti, persone, strumenti e responsabilità; resta la relazione fra ciò che il sistema comprende, ciò che protegge e gli effetti delle sue azioni. Il ricevente organizza il proprio modo di operare e far continuare l’apprendimento.
 
 [Leggere il manifesto](../MANIFESTO.md) · [Adottarlo nel tuo ambiente](INCARNATION.md) · [Termini d’uso](../LICENSE)
+
+## Pacchetto caricato e recupero degli effetti
+
+Raggiungi il canale e il periodo di distribuzione del pacchetto effettivamente eseguito. Se sono confermati effetti fuori dal componente, la rimozione e il recupero richiedono riscontri distinti. L’[esempio e le fonti](../examples/artefatto-ed-effetti.md) portano il metodo e la sua portata.

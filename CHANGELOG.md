@@ -1,3 +1,10 @@
+# 0.2.4 — 31 October 2026
+
+Develop actual distribution-channel/package identity and persistent effects
+beyond component removal. Preserve previous methods and cases; add a fourth
+illustrative case and bilingual guidance with attributed primary sources.
+No host inspection, remediation, automatic installation or runtime activation.
+
 # Evoluzione di K-Cybersecurity
 
 ## 0.2.3 — 30 ottobre 2026, candidata

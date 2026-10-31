@@ -106,3 +106,13 @@ seguito. Un ritorno riusabile cambia questa competenza o il responsabile
 del difetto; un cambiamento del metodo di formazione torna alla
 [facoltà generativa](../cyber-learning/SKILL.md). Il recupero può insegnare
 anche come prevenire, riconoscere o affrontare un evento diverso.
+
+## Recuperare gli effetti oltre il componente
+
+Quando un componente esposto ha già agito, comprenderne la rimozione insieme
+alle modifiche eventualmente prodotte presso altri owner: autenticazioni,
+processi, avvii e dati. Preserva le evidenze e governa contenimento e recupero
+con i responsabili pertinenti. Un tentativo di connessione fallito non prova
+l’assenza di effetti persistenti; la verifica segue ciò che è realmente
+accaduto. Il [caso bilingue](../../examples/artefatto-ed-effetti.md) distingue
+conoscenza del segnale, esposizione accertata e correzione verificata.

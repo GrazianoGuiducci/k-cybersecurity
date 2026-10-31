@@ -71,3 +71,13 @@ Aggiorna la comprensione dal risultato, evitando di reinstallare una vecchia
 mappa come presente. Rendi raggiungibile questo sapere dal margine corrente.
 L'owner locale conserva dettagli e accessi; un ritorno condivisibile nutre il
 nucleo pubblico attraverso la sua relazione sorgente.
+
+## Riconoscere il pacchetto realmente caricato
+
+Quando distribuzione o aggiornamento sono pertinenti, distingui l’identità
+del progetto da quella del pacchetto ottenuto nel canale e nel tempo reali.
+Nome, publisher e versione dichiarati non identificano da soli i byte caricati
+dal loader. Segui l’owner dello strumento per comprendere provenienza, mezzi
+di riscontro e condizioni effettive, senza dedurre una compromissione locale
+da un avviso generale. Il [caso di artefatto ed effetti](../../examples/artefatto-ed-effetti.md)
+mostra come questa differenza può cambiare domanda e risposta.

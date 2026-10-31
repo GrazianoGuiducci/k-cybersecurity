@@ -51,3 +51,11 @@ evoluzione. Il contenuto di un altro dominio resta alla sua sorgente.
 Una fonte o un'implementazione nuova può cambiare la domanda e il metodo.
 L'apprendimento raggiunge la competenza che dovrà usare quella differenza.
 La mappa rimane aperta a risorse e relazioni ancora non rappresentate.
+
+## Distribuzione ed effetti persistenti — 31 ottobre 2026
+
+[Avviso del distributore Cursor](https://prod.cursor.com/blog/claude-code-extension-security-notice)
+e [analisi Microsoft](https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/):
+fonti primarie sull’incidente del 29 ottobre e sui meccanismi descritti.
+L’[esempio bilingue](../examples/artefatto-ed-effetti.md) conserva la distinzione
+fra incidente di terzi, caso illustrativo e osservazione di un ricevente.

@@ -34,7 +34,7 @@ carries reusable knowledge and can learn from suitable contributions.
 - [Companies and consulting](docs/COMPANIES.md) connects adoption to real work.
 - [Sources](sources/SOURCE_MAP.md) makes external resources reachable.
 
-Version **0.2.3** develops the initial LLM-first core, expressed in readable Markdown
+Version **0.2.4** develops the initial LLM-first core, expressed in readable Markdown
 and a small discovery manifest. Its detailed operating documents are currently in Italian.
 [Italian entry](README.md) · [Current direction](CURRENT.md)
 
@@ -61,7 +61,7 @@ systems to improve their security. [Licensing guide](docs/LICENSING.md).
 
 ## Method and adaptable cases
 
-**0.2.3** includes actual provenance, content that changes over time,
+**0.2.4** includes actual provenance, content that changes over time,
 propagation between assistants, and control integrity through changes
 and delegation.
 
@@ -77,3 +77,5 @@ keeps the mandate connected to the target and delivery, while preserving
 legitimate links and cooperation.
 
 [Bilingual target and recipient example](examples/bersaglio-e-destinatario.md)
+
+[Executed package and persistent effects: example and sources](examples/artefatto-ed-effetti.md).

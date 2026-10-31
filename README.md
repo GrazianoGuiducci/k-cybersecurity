@@ -79,7 +79,7 @@ l'istanza del destinatario conserva contesto e apprendimento locale.
 
 ## Il nucleo disponibile
 
-La versione **0.2.3** contiene il nucleo semantico, il manifesto,
+La versione **0.2.4** contiene il nucleo semantico, il manifesto,
 quattro corpi di competenza e un ingresso utilizzabile come skill. I file
 portano logiche e conoscenza attraverso cui il ricevente può organizzarsi.
 Strumenti di analisi, sistemi di controllo e processi esecutivi si compongono
@@ -97,9 +97,11 @@ serve a renderli più sicuri. [Licenza](LICENSE) · [Come si applica](docs/LICEN
 
 ## Metodo e casi da adattare
 
-La **0.2.3** porta il sapere sulla provenienza effettiva, sui contenuti che
+La **0.2.4** porta il sapere sulla provenienza effettiva, sui contenuti che
 cambiano nel tempo, sulla propagazione fra assistenti e sull’integrità dei
 controlli durante modifiche e deleghe.
 
 [Guida operativa e tre casi illustrativi](docs/GUIDA_OPERATIVA.md) ·
 [Evoluzione attraverso un’attività periodica](docs/EVOLUTION.md).
+
+[Pacchetto eseguito ed effetti persistenti: caso e fonti](examples/artefatto-ed-effetti.md).
