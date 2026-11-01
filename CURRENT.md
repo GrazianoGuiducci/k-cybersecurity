@@ -1,5 +1,18 @@
 # Presente di K-Cybersecurity
 
+Aggiornato: 1 novembre 2026. Versione del nucleo: **0.2.5**.
+
+La nuova edizione distingue completamento del compito, chiamate successive,
+autorità e destinatario degli effetti. Metodo, consapevolezza, difesa e guide
+IT/EN ricevono il sapere, con un esempio bilingue approfondito. I quattro
+casi principali, manifesto, licenza e capacità precedenti sono preservati.
+La ricerca citata non è un incidente MAIOS o una difesa installata. Sito e
+Chat mantengono proiezioni, attivazioni e osservazioni proprie.
+
+## Edizioni precedenti — stati e identità alle rispettive date
+
+# Presente di K-Cybersecurity
+
 Aggiornato: 31 ottobre 2026. Versione del nucleo: **0.2.4**.
 
 ## 0.2.4 — Pacchetto eseguito ed effetti persistenti

@@ -81,3 +81,11 @@ dal loader. Segui l’owner dello strumento per comprendere provenienza, mezzi
 di riscontro e condizioni effettive, senza dedurre una compromissione locale
 da un avviso generale. Il [caso di artefatto ed effetti](../../examples/artefatto-ed-effetti.md)
 mostra come questa differenza può cambiare domanda e risposta.
+
+## Distinguere risultato ed effetti successivi
+
+Se un percorso aggiunge chiamate dopo il risultato richiesto, riconosci scopo,
+destinatario e dati di ciascun effetto materiale. La risposta utile non esaurisce
+la traiettoria. Una descrizione tool può suggerire un’azione senza possederne
+l’autorità; la [guida e il caso](../../examples/compito-e-chiamata-aggiuntiva.md)
+distinguono completamento, proposta ed effetto realmente osservato.

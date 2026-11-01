@@ -136,3 +136,20 @@ L'[esempio bilingue](../examples/artefatto-ed-effetti.md) separa il caso
 illustrativo dalle fonti pubbliche che hanno informato il metodo. Il segnale
 su un prodotto terzo, la sua presenza locale e una bonifica verificata restano
 fatti distinti; questo sapere non installa scanner o controlli sul ricevente.
+
+## Autorità oltre il completamento del compito
+
+Un compito può essere riuscito mentre una chiamata successiva introduce
+un altro destinatario o uso dei dati. Quando questa differenza è pertinente,
+segui la traiettoria delle azioni anche oltre l’ultima operazione necessaria al
+risultato. Descrizione di un tool, consenso all’uso del servizio e mandato per
+quella chiamata hanno ruoli distinti. Una motivazione esterna di logging o audit
+non conferisce da sola autorità; le registrazioni realmente affidate conservano
+invece scopo e responsabile. Risposta finale, scelta dell’agente, controllo del
+mezzo ed effetto osservato richiedono riscontri propri. Il caso non impone un
+audit uniforme a ogni conversazione e non dimostra una protezione installata.
+
+L’[esempio bilingue](../examples/compito-e-chiamata-aggiuntiva.md) rende
+riconoscibile il passaggio. Il responsabile del runtime decide come osservare
+le chiamate e governare gli effetti quando l’integrazione lo richiede; il
+metodo cognitivo e il blocco tecnico mantengono prove distinte.

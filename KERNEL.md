@@ -142,3 +142,10 @@ che dichiara di rappresentare. Gli effetti prodotti possono continuare oltre
 la rimozione del componente. Consapevolezza e difesa seguono queste relazioni
 nei rispettivi owner, con il [metodo condiviso](docs/SECURITY_IN_OPERATION.md)
 e l’[esempio bilingue](examples/artefatto-ed-effetti.md).
+
+### Risultato del compito e traiettoria degli effetti
+
+Il risultato funzionale e le azioni prodotte oltre il suo completamento sono
+osservazioni differenti. Il kernel conserva scopo, autorità e destinatario
+anche per una chiamata supplementare; il [metodo condiviso](docs/SECURITY_IN_OPERATION.md)
+e il [caso bilingue](examples/compito-e-chiamata-aggiuntiva.md) ne sviluppano il senso.

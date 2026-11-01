@@ -116,3 +116,12 @@ con i responsabili pertinenti. Un tentativo di connessione fallito non prova
 l’assenza di effetti persistenti; la verifica segue ciò che è realmente
 accaduto. Il [caso bilingue](../../examples/artefatto-ed-effetti.md) distingue
 conoscenza del segnale, esposizione accertata e correzione verificata.
+
+## Preservare il mandato nelle chiamate supplementari
+
+Quando compare un flusso aggiuntivo, collega autorizzazione e destinatario al
+mezzo che esercita proprio quell’effetto. L’abilitazione del server non concede
+ogni invio proposto dai suoi metadati. Il logging affidato resta una funzione
+legittima; quello suggerito da una fonte esterna non ne eredita il mandato.
+La [situazione bilingue](../../examples/compito-e-chiamata-aggiuntiva.md) insegna
+il riconoscimento senza installare un controller o provare l’immunità dell’host.

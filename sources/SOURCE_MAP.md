@@ -59,3 +59,10 @@ e [analisi Microsoft](https://www.microsoft.com/en-us/security/blog/2026/10/30/i
 fonti primarie sull’incidente del 29 ottobre e sui meccanismi descritti.
 L’[esempio bilingue](../examples/artefatto-ed-effetti.md) conserva la distinzione
 fra incidente di terzi, caso illustrativo e osservazione di un ricevente.
+
+## Chiamate oltre il compito — 1 novembre 2026
+
+[Ricerca primaria Log-To-Leak](https://arxiv.org/abs/2610.36108v1), pubblicata
+il 26 ottobre e riletta il 1 novembre. L’[esempio](../examples/compito-e-chiamata-aggiuntiva.md)
+conserva la differenza fra chiamata proposta, mandato e effetto; non attribuisce
+risultati del paper a un altro ricevente o a ogni modello futuro.

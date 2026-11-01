@@ -98,3 +98,18 @@ Puoi partire da uno studio professionale, un gruppo software, un ente o un proge
 ## Pacchetto caricato e recupero degli effetti
 
 Raggiungi il canale e il periodo di distribuzione del pacchetto effettivamente eseguito. Se sono confermati effetti fuori dal componente, la rimozione e il recupero richiedono riscontri distinti. L’[esempio e le fonti](../examples/artefatto-ed-effetti.md) portano il metodo e la sua portata.
+
+## Dopo il risultato, riconoscere le azioni aggiuntive
+
+Un compito può essere riuscito mentre una chiamata successiva introduce
+un altro destinatario o uso dei dati. Quando questa differenza è pertinente,
+segui la traiettoria delle azioni anche oltre l’ultima operazione necessaria al
+risultato. Descrizione di un tool, consenso all’uso del servizio e mandato per
+quella chiamata hanno ruoli distinti. Una motivazione esterna di logging o audit
+non conferisce da sola autorità; le registrazioni realmente affidate conservano
+invece scopo e responsabile. Risposta finale, scelta dell’agente, controllo del
+mezzo ed effetto osservato richiedono riscontri propri. Il caso non impone un
+audit uniforme a ogni conversazione e non dimostra una protezione installata.
+
+Il [caso della biblioteca](../examples/compito-e-chiamata-aggiuntiva.md)
+porta situazione, scelta e limiti della fonte primaria.

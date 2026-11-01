@@ -98,3 +98,18 @@ You can begin with a professional practice, software team, institution, or perso
 ## Loaded package and recovery of its effects
 
 Reach the distribution channel and period of the package actually executed. If effects outside the component are confirmed, removal and recovery need distinct observations. The [example and sources](../examples/artefatto-ed-effetti.md) explain the method and its scope.
+
+## After the result, recognize additional actions
+
+A task can succeed while a later call introduces another recipient or
+use of data. When that difference matters, follow the action trajectory beyond
+the last operation needed for the result. A tool description, consent to use
+a service and the mandate for that particular call play different roles.
+An external logging or audit rationale does not itself grant authority;
+genuinely entrusted records retain their purpose and responsible owner.
+The final answer, agent choice, host control and observed effect require their
+own observations. This case does not impose a uniform audit on every
+conversation or establish an installed protection.
+
+The [library case](../examples/compito-e-chiamata-aggiuntiva.md) explains
+the situation, choice and limits of the primary source.

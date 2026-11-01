@@ -1,3 +1,10 @@
+# 0.2.5 — 1 November 2026
+
+Develop the authority and recipient of calls that follow successful task
+completion. Add a bilingual library example and source limits; preserve the
+four main presentation cases, previous knowledge, manifesto and license.
+No independent LLM experiment, host protection or remediation is asserted.
+
 # 0.2.4 — 31 October 2026
 
 Develop actual distribution-channel/package identity and persistent effects
